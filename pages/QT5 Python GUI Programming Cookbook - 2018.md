@@ -1,0 +1,1 @@
+- ![QT5 Python GUI Programming Cookbook - 2018.pdf](../assets/QT5_Python_GUI_Programming_Cookbook_-_2018_1648366395889_0.pdf)

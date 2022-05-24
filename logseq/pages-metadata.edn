@@ -1,0 +1,571 @@
+[{:block/name " 'c1' ",
+  :block/created-at 1651062777811,
+  :block/updated-at 1651062777811}
+ {:block/name "'c1', 'c3'",
+  :block/created-at 1651062777817,
+  :block/updated-at 1651062777817}
+ {:block/name "'r2', 'r3'",
+  :block/created-at 1651062777814,
+  :block/updated-at 1651062777814}
+ {:block/name "009100；",
+  :block/created-at 1648347512060,
+  :block/updated-at 1648347512060}
+ {:block/name "1 安装",
+  :block/created-at 1648001361793,
+  :block/updated-at 1648001795198}
+ {:block/name "1, 2, 3], [4, 5, 6], [7, 8, 9",
+  :block/created-at 1651062777819,
+  :block/updated-at 1651062777819}
+ {:block/name "1, 2], [3, 4], [5, 6",
+  :block/created-at 1651062777806,
+  :block/updated-at 1651062777806}
+ {:block/name "10 图片的插入",
+  :block/created-at 1648004277754,
+  :block/updated-at 1648014064468}
+ {:block/name "11 pdf文件的插入",
+  :block/created-at 1648014196388,
+  :block/updated-at 1648014223120}
+ {:block/name "12 其他任意文档的插入",
+  :block/created-at 1648014249250,
+  :block/updated-at 1648014254370}
+ {:block/name "13 超链接的插入",
+  :block/created-at 1648004341327,
+  :block/updated-at 1648014280433}
+ {:block/name "14 markdown语法",
+  :block/created-at 1648014362894,
+  :block/updated-at 1648014760104}
+ {:block/name "15  (",
+  :block/created-at 1653312523942,
+  :block/updated-at 1653312523942}
+ {:block/name "15  (/)命令及高级todolist的构建",
+  :block/created-at 1648535194396,
+  :block/updated-at 1648535194396}
+ {:block/name "15  【",
+  :block/created-at 1648369857469,
+  :block/updated-at 1648369857469}
+ {:block/name "15 【",
+  :block/created-at 1648014871016,
+  :block/updated-at 1648014871016}
+ {:block/name "15 【/】命令及高级todolist的构建",
+  :block/created-at 1648014871016,
+  :block/updated-at 1648015611623}
+ {:block/name "16 安装插件和好看的主题",
+  :block/created-at 1648015690330,
+  :block/updated-at 1648015767630}
+ {:block/name "17 flashcards】功能，【card】和【cloze】命令",
+  :block/created-at 1648015948203,
+  :block/updated-at 1648016021621}
+ {:block/name "18 插件",
+  :block/created-at 1648535195060,
+  :block/updated-at 1648535195060}
+ {:block/name "18 插件/主题资源",
+  :block/created-at 1648016129431,
+  :block/updated-at 1648016451720}
+ {:block/name "19 数学公式",
+  :block/created-at 1648016107698,
+  :block/updated-at 1648018185723}
+ {:block/name "2 正式启用logseq",
+  :block/created-at 1648001446264,
+  :block/updated-at 1648001676159}
+ {:block/name "20 段落_字体_格式",
+  :block/created-at 1648018255057,
+  :block/updated-at 1648262831530}
+ {:block/name "21 页面属性定义及高效调用",
+  :block/created-at 1648024906638,
+  :block/updated-at 1648026002033}
+ {:block/name "3 建立第一条日记",
+  :block/created-at 1648001868037,
+  :block/updated-at 1648001952863}
+ {:block/name "4 初始块的概念",
+  :block/created-at 1648001981587,
+  :block/updated-at 1648002102593}
+ {:block/name "5 【块】的进阶使用",
+  :block/created-at 1648002159874,
+  :block/updated-at 1648002914311}
+ {:block/name "6 页面",
+  :block/created-at 1648003005768,
+  :block/updated-at 1648003005768}
+ {:block/name "6 页面/笔记的创建和引用",
+  :block/created-at 1648003005767,
+  :block/updated-at 1648003537451}
+ {:block/name "7 标签",
+  :block/created-at 1648003814958,
+  :block/updated-at 1648003890636}
+ {:block/name "8 创建目录",
+  :block/created-at 1648004198899,
+  :block/updated-at 1648012410430}
+ {:block/name "9 emoji表情的支持",
+  :block/created-at 1648004255083,
+  :block/updated-at 1648012743729}
+ {:block/name "a",
+  :block/created-at 1647598296796,
+  :block/updated-at 1647598296796}
+ {:block/name "apr 11th, 2022",
+  :block/created-at 1649669884346,
+  :block/updated-at 1649669884346}
+ {:block/name "apr 14th, 2022",
+  :block/created-at 1649899711830,
+  :block/updated-at 1649899722672}
+ {:block/name "apr 17th, 2022",
+  :block/created-at 1650173712448,
+  :block/updated-at 1650173712448}
+ {:block/name "apr 18th, 2022",
+  :block/created-at 1650248017609,
+  :block/updated-at 1650248017609}
+ {:block/name "apr 1st, 2022",
+  :block/created-at 1648777767221,
+  :block/updated-at 1648908833903}
+ {:block/name "apr 20th, 2022",
+  :block/created-at 1650447667200,
+  :block/updated-at 1650447667200}
+ {:block/name "apr 22nd, 2022",
+  :block/created-at 1650612007438,
+  :block/updated-at 1650612007438}
+ {:block/name "apr 26th, 2022",
+  :block/created-at 1650933200924,
+  :block/updated-at 1650933279809}
+ {:block/name "apr 27th, 2022",
+  :block/created-at 1651013586253,
+  :block/updated-at 1651062776114}
+ {:block/name "apr 28th, 2022",
+  :block/created-at 1651105245458,
+  :block/updated-at 1651105548964}
+ {:block/name "apr 2nd, 2022",
+  :block/created-at 1648859625745,
+  :block/updated-at 1648950142963}
+ {:block/name "apr 3rd, 2022",
+  :block/created-at 1648949898944,
+  :block/updated-at 1649074312388}
+ {:block/name "apr 4th, 2022",
+  :block/created-at 1649074046817,
+  :block/updated-at 1649074314141}
+ {:block/name "apr 5th, 2022",
+  :block/created-at 1649119585235,
+  :block/updated-at 1649126546005}
+ {:block/name "apr 6th, 2022",
+  :block/created-at 1649242534841,
+  :block/updated-at 1649243074895}
+ {:block/name "apr 7th, 2022",
+  :block/created-at 1649300055403,
+  :block/updated-at 1649337833099}
+ {:block/name "apr 8th, 2022",
+  :block/created-at 1653312521969,
+  :block/updated-at 1653312521969}
+ {:block/name "b",
+  :block/created-at 1647598296796,
+  :block/updated-at 1647598296796}
+ {:block/name "c",
+  :block/created-at 1647598296796,
+  :block/updated-at 1647598296796}
+ {:block/name "canceled",
+  :block/created-at 1647737038429,
+  :block/updated-at 1647737038429}
+ {:block/name "card",
+  :block/created-at 1647598296796,
+  :block/updated-at 1647598296796}
+ {:block/name "code books",
+  :block/created-at 1653312522309,
+  :block/updated-at 1653312522309}
+ {:block/name "contents",
+  :block/created-at 1647598296796,
+  :block/updated-at 1649902715292}
+ {:block/name "css",
+  :block/created-at 1648347511863,
+  :block/updated-at 1648347511863}
+ {:block/name "deep learning with python  françois chollet - 2018",
+  :block/created-at 1653312522307,
+  :block/updated-at 1653312522307}
+ {:block/name "doing",
+  :block/created-at 1647598296796,
+  :block/updated-at 1647598296796}
+ {:block/name "done",
+  :block/created-at 1647598296796,
+  :block/updated-at 1647598296796}
+ {:block/name "draws/2022-03-18-22-36-59.excalidraw",
+  :block/created-at 1647740172957,
+  :block/updated-at 1647740172957}
+ {:block/name "favorites",
+  :block/created-at 1647598296796,
+  :block/updated-at 1647598296796}
+ {:block/name "github入门与实践",
+  :block/created-at 1653312522272,
+  :block/updated-at 1653312522272}
+ {:block/name
+  "hands-on machine learning with scikit-learn and tensorflow - 2017",
+  :block/created-at 1653312522307,
+  :block/updated-at 1653312522307}
+ {:block/name "hls__pythoncookbook第3版中文版_1648437533072_0",
+  :block/created-at 1648474863700,
+  :block/updated-at 1648474863700}
+ {:block/name "hls__漫画算法：小灰的算法之旅_1648475038143_0",
+  :block/created-at 1648535194547,
+  :block/updated-at 1648535194547}
+ {:block/name "hls__第一本docker书_1648089244663_0",
+  :block/created-at 1648369857618,
+  :block/updated-at 1648369857618}
+ {:block/name "html",
+  :block/created-at 1648347511862,
+  :block/updated-at 1648347511862}
+ {:block/name "in-progress",
+  :block/created-at 1647598296796,
+  :block/updated-at 1647598296796}
+ {:block/name "investment",
+  :block/created-at 1653312522035,
+  :block/updated-at 1653312522035}
+ {:block/name "javascript",
+  :block/created-at 1648347511864,
+  :block/updated-at 1648347511864}
+ {:block/name "later",
+  :block/created-at 1647598296796,
+  :block/updated-at 1647598296796}
+ {:block/name "linux 就该这么学",
+  :block/created-at 1653312522270,
+  :block/updated-at 1653312522270}
+ {:block/name "linux基础",
+  :block/created-at 1648777767324,
+  :block/updated-at 1648821077052}
+ {:block/name "logseq tutorial",
+  :block/created-at 1647739894955,
+  :block/updated-at 1648262548489}
+ {:block/name "machine learning_ 基础",
+  :block/created-at 1651801284347,
+  :block/updated-at 1651801284347}
+ {:block/name "mar 18th, 2022",
+  :block/created-at 1647601932349,
+  :block/updated-at 1647739815836}
+ {:block/name "mar 20th, 2022",
+  :block/created-at 1647737038245,
+  :block/updated-at 1647748883624}
+ {:block/name "mar 23rd, 2022",
+  :block/created-at 1648001106687,
+  :block/updated-at 1648001106687}
+ {:block/name "mar 24th, 2022",
+  :block/created-at 1648369857039,
+  :block/updated-at 1648371297619}
+ {:block/name "mar 26th, 2022",
+  :block/created-at 1648347511662,
+  :block/updated-at 1648347511662}
+ {:block/name "mar 27th, 2022",
+  :block/created-at 1648369857221,
+  :block/updated-at 1648374330487}
+ {:block/name "mar 28th, 2022",
+  :block/created-at 1648474864003,
+  :block/updated-at 1648474864003}
+ {:block/name "mar 29th, 2022",
+  :block/created-at 1648546732149,
+  :block/updated-at 1648546732149}
+ {:block/name "mar 31st, 2022",
+  :block/created-at 1647598996387,
+  :block/updated-at 1647598996387}
+ {:block/name "may 12th, 2022",
+  :block/created-at 1653312521993,
+  :block/updated-at 1653312521993}
+ {:block/name "may 13th, 2022",
+  :block/created-at 1652453835347,
+  :block/updated-at 1652453835347}
+ {:block/name "may 19th, 2022",
+  :block/created-at 1653312522018,
+  :block/updated-at 1653312522018}
+ {:block/name "may 23rd, 2022",
+  :block/created-at 1653312522036,
+  :block/updated-at 1653312522036}
+ {:block/name "may 4th, 2022",
+  :block/created-at 1651647431713,
+  :block/updated-at 1651647431713}
+ {:block/name "may 6th, 2022",
+  :block/created-at 1651801284349,
+  :block/updated-at 1651801284349}
+ {:block/name "now",
+  :block/created-at 1647598296796,
+  :block/updated-at 1647598296796}
+ {:block/name "python",
+  :block/created-at 1648369859313,
+  :block/updated-at 1648369859313}
+ {:block/name "python for data analysis, 2nd edition - 2017",
+  :block/created-at 1653312522305,
+  :block/updated-at 1653312522305}
+ {:block/name "python gui programming cookbook 2nd - 2017",
+  :block/created-at 1653312522304,
+  :block/updated-at 1653312522304}
+ {:block/name "python tutorial",
+  :block/created-at 1653312522262,
+  :block/updated-at 1653312522262}
+ {:block/name "pythonlearn",
+  :block/created-at 1653312522303,
+  :block/updated-at 1653312522303}
+ {:block/name "python数据分析基础",
+  :block/created-at 1653312522282,
+  :block/updated-at 1653312522282}
+ {:block/name "python数据可视化编程实战",
+  :block/created-at 1653312522274,
+  :block/updated-at 1653312522274}
+ {:block/name "python数据挖掘入门与实践",
+  :block/created-at 1653312522289,
+  :block/updated-at 1653312522289}
+ {:block/name "python机器学习基础教程",
+  :block/created-at 1653312522292,
+  :block/updated-at 1653312522292}
+ {:block/name "python机器学习实践指南",
+  :block/created-at 1653312522281,
+  :block/updated-at 1653312522281}
+ {:block/name "python机器学习经典实例",
+  :block/created-at 1653312522291,
+  :block/updated-at 1653312522291}
+ {:block/name "python网络数据采集",
+  :block/created-at 1653312522290,
+  :block/updated-at 1653312522290}
+ {:block/name "python网络编程攻略",
+  :block/created-at 1653312522284,
+  :block/updated-at 1653312522284}
+ {:block/name "python计算机视觉编程",
+  :block/created-at 1653312522279,
+  :block/updated-at 1653312522279}
+ {:block/name "python高效开发实战django、tornado、flask、twisted - 2016",
+  :block/created-at 1653312522302,
+  :block/updated-at 1653312522302}
+ {:block/name "python：1 基本概念",
+  :block/created-at 1648369857688,
+  :block/updated-at 1648371330828}
+ {:block/name "python：10 集合（set）",
+  :block/created-at 1648369857753,
+  :block/updated-at 1648369857753}
+ {:block/name "python：11 函数设计",
+  :block/created-at 1648369857870,
+  :block/updated-at 1648371240906}
+ {:block/name "python：12 类-面向对象的程序设计",
+  :block/created-at 1648369858015,
+  :block/updated-at 1649246425230}
+ {:block/name "python：13 设计与引用模块",
+  :block/created-at 1648369858124,
+  :block/updated-at 1648369858124}
+ {:block/name "python：14 文件的读取与写入",
+  :block/created-at 1648369858250,
+  :block/updated-at 1649243247513}
+ {:block/name "python：15 程序除错与异常处理",
+  :block/created-at 1648369858379,
+  :block/updated-at 1648369858379}
+ {:block/name "python：16 正则表达式（regular express",
+  :block/created-at 1648369858531,
+  :block/updated-at 1649325248290}
+ {:block/name "python：2 变量及基本数据类型",
+  :block/created-at 1648369858656,
+  :block/updated-at 1648369858656}
+ {:block/name "python：3 基本数据类型",
+  :block/created-at 1648369858756,
+  :block/updated-at 1648369858756}
+ {:block/name "python：4 基本输入与输出",
+  :block/created-at 1648369858854,
+  :block/updated-at 1648369858854}
+ {:block/name "python：5 流程控制使用if语句",
+  :block/created-at 1648369858924,
+  :block/updated-at 1648369858924}
+ {:block/name "python：6 列表",
+  :block/created-at 1648369859013,
+  :block/updated-at 1648369859013}
+ {:block/name "python：7 循环设计",
+  :block/created-at 1648369859108,
+  :block/updated-at 1648369859108}
+ {:block/name "python：8 元组",
+  :block/created-at 1648369859185,
+  :block/updated-at 1648369859185}
+ {:block/name "python：9 字典(dict）",
+  :block/created-at 1648369859241,
+  :block/updated-at 1648369859241}
+ {:block/name "python：mysql数据库基础",
+  :block/created-at 1648908820222,
+  :block/updated-at 1649122880487}
+ {:block/name "python：mysql高级进阶",
+  :block/created-at 1648993713306,
+  :block/updated-at 1649126516138}
+ {:block/name "python：pandas",
+  :block/created-at 1651062776113,
+  :block/updated-at 1651105251277}
+ {:block/name "python：property属性、with语句、生成器、深拷贝浅拷贝",
+  :block/created-at 1649243074894,
+  :block/updated-at 1649251584026}
+ {:block/name "python：web开发",
+  :block/created-at 1649242872393,
+  :block/updated-at 1649242872393}
+ {:block/name "python：web开发/网络编程",
+  :block/created-at 1648821175095,
+  :block/updated-at 1648859701865}
+ {:block/name "python：实用技巧",
+  :block/created-at 1650933279808,
+  :block/updated-at 1650934600704}
+ {:block/name "python：编码转换",
+  :block/created-at 1648820559040,
+  :block/updated-at 1648820852333}
+ {:block/name "python：获取文件夹或文件路径",
+  :block/created-at 1648777767326,
+  :block/updated-at 1648777767326}
+ {:block/name "python：闭包、装饰器",
+  :block/created-at 1649126546004,
+  :block/updated-at 1649242950661}
+ {:block/name "python：静态web服务器",
+  :block/created-at 1648893181777,
+  :block/updated-at 1648908736738}
+ {:block/name "qt5 python gui programming cookbook - 2018",
+  :block/created-at 1653312522300,
+  :block/updated-at 1653312522300}
+ {:block/name "tcp+sockets编程",
+  :block/created-at 1653312522273,
+  :block/updated-at 1653312522273}
+ {:block/name "tcp客户端和服务端开发",
+  :block/created-at 1648859751651,
+  :block/updated-at 1648873793248}
+ {:block/name "tkinter gui application development cookbook - 2018",
+  :block/created-at 1653312522297,
+  :block/updated-at 1653312522297}
+ {:block/name "todo",
+  :block/created-at 1647598296796,
+  :block/updated-at 1647598296796}
+ {:block/name "vim实用技巧_第2版_使用模式入门篇",
+  :block/created-at 1653312522294,
+  :block/updated-at 1653312522294}
+ {:block/name "vocabulary",
+  :block/created-at 1647737727566,
+  :block/updated-at 1647739010656}
+ {:block/name "wait",
+  :block/created-at 1647598296796,
+  :block/updated-at 1647598296796}
+ {:block/name "waiting",
+  :block/created-at 1647598296796,
+  :block/updated-at 1647598296796}
+ {:block/name "website scraping with python - 2018",
+  :block/created-at 1653312522299,
+  :block/updated-at 1653312522299}
+ {:block/name "web开发之css",
+  :block/created-at 1649337456606,
+  :block/updated-at 1649337460762}
+ {:block/name "web开发之html",
+  :block/created-at 1649337407116,
+  :block/updated-at 1649337415518}
+ {:block/name "web开发之javascript",
+  :block/created-at 1649337486766,
+  :block/updated-at 1649337494519}
+ {:block/name "web开发之客户端编程技术：html",
+  :block/created-at 1649242871465,
+  :block/updated-at 1649242871465}
+ {:block/name "web开发之客户端编程技术：html/css",
+  :block/created-at 1649242871466,
+  :block/updated-at 1649242871466}
+ {:block/name "web开发之客户端编程技术：html/css/javascript",
+  :block/created-at 1649242871464,
+  :block/updated-at 1649337807850}
+ {:block/name "web编程之网络基础",
+  :block/created-at 1648778880038,
+  :block/updated-at 1648874497098}
+ {:block/name "⃣",
+  :block/created-at 1648012734109,
+  :block/updated-at 1648012734109}
+ {:block/name "《python cookbook》",
+  :block/created-at 1648474863833,
+  :block/updated-at 1648537830723}
+ {:block/name "《python王者归来》",
+  :block/created-at 1648369857037,
+  :block/updated-at 1650933350572}
+ {:block/name "《一个人的第一次》",
+  :block/created-at 1648025343083,
+  :block/updated-at 1648025476684}
+ {:block/name "《也许你该找个人聊聊》",
+  :block/created-at 1648025675432,
+  :block/updated-at 1648025714667}
+ {:block/name "《第一本docker书》",
+  :block/created-at 1648369857032,
+  :block/updated-at 1648369857032}
+ {:block/name "《视频教程：老杜带你5天玩转web前端",
+  :block/created-at 1648347511660,
+  :block/updated-at 1648347511660}
+ {:block/name "《非暴力沟通》",
+  :block/created-at 1648025557621,
+  :block/updated-at 1648025753369}
+ {:block/name "个人提升",
+  :block/created-at 1648025592166,
+  :block/updated-at 1648025592166}
+ {:block/name "书",
+  :block/created-at 1648025368192,
+  :block/updated-at 1648025368192}
+ {:block/name "凯利公式--按这个炒股能成巴菲特？李永乐老师讲投资资金分配",
+  :block/created-at 1653312522897,
+  :block/updated-at 1653312522897}
+ {:block/name "函数式编程思维",
+  :block/created-at 1653312522276,
+  :block/updated-at 1653312522276}
+ {:block/name "切蛋糕问题--什么是公平？如何分配利益才能大家都满意？",
+  :block/created-at 1653312523003,
+  :block/updated-at 1653312523003}
+ {:block/name "前端",
+  :block/created-at 1648347511862,
+  :block/updated-at 1648347511862}
+ {:block/name "十万个为什么",
+  :block/created-at 1649899722672,
+  :block/updated-at 1649902695614}
+ {:block/name "如何才能摆脱平穷？穷人和富人有什么差别？【诺贝尔经济学奖解读】",
+  :block/created-at 1653312523039,
+  :block/updated-at 1653313739479}
+ {:block/name "心理学",
+  :block/created-at 1648025586656,
+  :block/updated-at 1648025586656}
+ {:block/name "技术",
+  :block/created-at 1648369859395,
+  :block/updated-at 1648369859395}
+ {:block/name "教程",
+  :block/created-at 1648347511867,
+  :block/updated-at 1648347511867}
+ {:block/name "李永乐讲经济",
+  :block/created-at 1653312522516,
+  :block/updated-at 1653312522516}
+ {:block/name "流畅的python.revise11",
+  :block/created-at 1653312522285,
+  :block/updated-at 1653312522285}
+ {:block/name "漫画",
+  :block/created-at 1648025359293,
+  :block/updated-at 1648025359293}
+ {:block/name "漫画算法：小灰的算法之旅",
+  :block/created-at 1648535194652,
+  :block/updated-at 1648535194652}
+ {:block/name "状态",
+  :block/created-at 1647737038423,
+  :block/updated-at 1647737038423}
+ {:block/name "生活",
+  :block/created-at 1648025364270,
+  :block/updated-at 1648025364270}
+ {:block/name "第1章 xxxxx",
+  :block/created-at 1648012392404,
+  :block/updated-at 1648012392404}
+ {:block/name "算法",
+  :block/created-at 1648535194655,
+  :block/updated-at 1648535194655}
+ {:block/name "类别a",
+  :block/created-at 1647737038440,
+  :block/updated-at 1647737038440}
+ {:block/name "编程",
+  :block/created-at 1648269046281,
+  :block/updated-at 1648269046281}
+ {:block/name "网址",
+  :block/created-at 1648014275647,
+  :block/updated-at 1648014275647}
+ {:block/name "网络是怎样连接的",
+  :block/created-at 1653312522277,
+  :block/updated-at 1653312522277}
+ {:block/name "视频",
+  :block/created-at 1648347511866,
+  :block/updated-at 1648347511866}
+ {:block/name "计算机",
+  :block/created-at 1648369859314,
+  :block/updated-at 1648369859314}
+ {:block/name "计算机基础：多任务、进程、线程",
+  :block/created-at 1648821106845,
+  :block/updated-at 1648821109181}
+ {:block/name "这是一个例子",
+  :block/created-at 1648025142329,
+  :block/updated-at 1648025142329}
+ {:block/name "阿莱悖论",
+  :block/created-at 1653312523234,
+  :block/updated-at 1653312523234}
+ {:block/name "阿莱悖论-- 面对风险、机遇和挑战，你为什么总是赚小亏大？",
+  :block/created-at 1653312523071,
+  :block/updated-at 1653312523071}
+ {:block/name "鸟哥的linux私房菜基础学习篇",
+  :block/created-at 1653312522271, 
+  :block/updated-at 1653312522271}]
