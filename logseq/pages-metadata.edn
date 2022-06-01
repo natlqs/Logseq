@@ -70,9 +70,6 @@
  {:block/name "8 创建目录",
   :block/created-at 1648004198899,
   :block/updated-at 1648012410430}
- {:block/name "9 emoji表情的支持",
-  :block/created-at 1648004255083,
-  :block/updated-at 1648012743729}
  {:block/name "a",
   :block/created-at 1647598296796,
   :block/updated-at 1647598296796}
@@ -121,21 +118,24 @@
  {:block/name "card",
   :block/created-at 1647598296796,
   :block/updated-at 1647598296796}
- {:block/name "code books",
-  :block/created-at 1653312522309,
-  :block/updated-at 1653312522309}
  {:block/name "contents",
   :block/created-at 1647598296796,
   :block/updated-at 1649902715292}
  {:block/name "deep learning with python  françois chollet - 2018",
   :block/created-at 1653312522307,
   :block/updated-at 1653312522307}
+ {:block/name "docker",
+  :block/created-at 1654070724592,
+  :block/updated-at 1654094643270}
  {:block/name "doing",
   :block/created-at 1647598296796,
   :block/updated-at 1647598296796}
  {:block/name "done",
   :block/created-at 1647598296796,
   :block/updated-at 1647598296796}
+ {:block/name "draws/2022-03-18-22-36-59.excalidraw",
+  :block/created-at 1654078618780,
+  :block/updated-at 1654078618780}
  {:block/name "favorites",
   :block/created-at 1647598296796,
   :block/updated-at 1647598296796}
@@ -158,24 +158,24 @@
  {:block/name "hls__第一本docker书_1648089244663_0",
   :block/created-at 1648369857618,
   :block/updated-at 1648369857618}
+ {:block/name "hub.docker.com",
+  :block/created-at 1654092401318,
+  :block/updated-at 1654092401318}
  {:block/name "in-progress",
   :block/created-at 1647598296796,
   :block/updated-at 1647598296796}
- {:block/name "investment",
-  :block/created-at 1653312522035,
-  :block/updated-at 1653312522035}
+ {:block/name "jun 1st, 2022",
+  :block/created-at 1654070610734,
+  :block/updated-at 1654070724596}
+ {:block/name "labs.play-with-docker.com",
+  :block/created-at 1654094434768,
+  :block/updated-at 1654094434768}
  {:block/name "later",
   :block/created-at 1647598296796,
   :block/updated-at 1647598296796}
  {:block/name "linux 就该这么学",
   :block/created-at 1653312522270,
   :block/updated-at 1653312522270}
- {:block/name "linux基础",
-  :block/created-at 1648777767324,
-  :block/updated-at 1648821077052}
- {:block/name "logseq tutorial",
-  :block/created-at 1647739894955,
-  :block/updated-at 1648262548489}
  {:block/name "machine learning_ 基础",
   :block/created-at 1651801284347,
   :block/updated-at 1651801284347}
@@ -218,6 +218,9 @@
  {:block/name "may 28th, 2022",
   :block/created-at 1653745226718,
   :block/updated-at 1653745226718}
+ {:block/name "may 31st, 2022",
+  :block/created-at 1654004773071,
+  :block/updated-at 1654004773071}
  {:block/name "may 6th, 2022",
   :block/created-at 1651801284349,
   :block/updated-at 1651801284349}
@@ -332,9 +335,6 @@
  {:block/name "python：web开发",
   :block/created-at 1649242872393,
   :block/updated-at 1649242872393}
- {:block/name "python：web开发/网络编程",
-  :block/created-at 1648821175095,
-  :block/updated-at 1648859701865}
  {:block/name "python：实用技巧",
   :block/created-at 1650933279808,
   :block/updated-at 1650934600704}
@@ -398,9 +398,6 @@
  {:block/name "web开发之客户端编程技术：html/css",
   :block/created-at 1649242871466,
   :block/updated-at 1649242871466}
- {:block/name "web开发之客户端编程技术：html/css/javascript",
-  :block/created-at 1649242871464,
-  :block/updated-at 1649337807850}
  {:block/name "web编程之网络基础",
   :block/created-at 1648778880038,
   :block/updated-at 1648874497098}
@@ -410,9 +407,6 @@
  {:block/name "《python cookbook》",
   :block/created-at 1648474863833,
   :block/updated-at 1648537830723}
- {:block/name "《python王者归来》",
-  :block/created-at 1648369857037,
-  :block/updated-at 1650933350572}
  {:block/name "《一个人的第一次》",
   :block/created-at 1648025343083,
   :block/updated-at 1648025476684}
@@ -504,5 +498,29 @@
   :block/created-at 1653312523071,
   :block/updated-at 1653312523071}
  {:block/name "鸟哥的linux私房菜基础学习篇",
-  :block/created-at 1653312522271, 
-  :block/updated-at 1653312522271}]
+  :block/created-at 1653312522271,
+  :block/updated-at 1653312522271}
+ {:block/name "🆒《python王者归来》",
+  :block/created-at 1648369857037,
+  :block/updated-at 1650933350572}
+ {:block/name "🌏web开发之客户端编程技术：html/css/javascript",
+  :block/created-at 1649242871464,
+  :block/updated-at 1649337807850}
+ {:block/name "🎲investment",
+  :block/created-at 1653312522035,
+  :block/updated-at 1653312522035}
+ {:block/name "🐍python：web开发/网络编程",
+  :block/created-at 1648821175095,
+  :block/updated-at 1648859701865}
+ {:block/name "🐧linux基础",
+  :block/created-at 1648777767324,
+  :block/updated-at 1648821077052}
+ {:block/name "📓logseq tutorial",
+  :block/created-at 1647739894955,
+  :block/updated-at 1648262548489}
+ {:block/name "📕code books",
+  :block/created-at 1653312522309,
+  :block/updated-at 1653312522309}
+ {:block/name "😀😁emoji表情的支持",
+  :block/created-at 1648004255083, 
+  :block/updated-at 1648012743729}]

@@ -166,7 +166,7 @@
 
  :ref/linked-references-collapsed-threshold 50
  :publishing/all-pages-public? false
- :favorites ["Investment" "python：Web开发/网络编程" "9 emoji表情的支持" "Linux基础" "Web开发之客户端编程技术：HTML/CSS/JavaScript" "《Python王者归来》" "Code Books" "Logseq Tutorial"]
+ :favorites ["📓logseq tutorial" "🆒《python王者归来》" "🌏web开发之客户端编程技术：html/css/javascript" "🐧linux基础" "😀😁emoji表情的支持" "🐍python：web开发/网络编程" "🎲investment" "📕code books"]
  :preferred-format :markdown
  :graph/settings {:journal? true}
 
