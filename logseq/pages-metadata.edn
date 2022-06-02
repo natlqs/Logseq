@@ -25,6 +25,9 @@
  {:block/name "15  (/)命令及高级todolist的构建",
   :block/created-at 1653699917872,
   :block/updated-at 1653699917872}
+ {:block/name "1500 plc编程及应用培训课程",
+  :block/created-at 1654176404800,
+  :block/updated-at 1654178516558}
  {:block/name "16 安装插件和好看的主题",
   :block/created-at 1653699917910,
   :block/updated-at 1653699917910}
@@ -43,9 +46,9 @@
  {:block/name "2 正式启用logseq",
   :block/created-at 1653699918051,
   :block/updated-at 1653699918051}
- {:block/name "20 段落|字体|格式",
-  :block/created-at 1653699918087,
-  :block/updated-at 1653699918087}
+ {:block/name "20 段落_字体_格式",
+  :block/created-at 1648018255057,
+  :block/updated-at 1648262831530}
  {:block/name "21 页面属性定义及高效调用",
   :block/created-at 1653699918123,
   :block/updated-at 1653699918123}
@@ -119,8 +122,8 @@
   :block/created-at 1653699936981,
   :block/updated-at 1653699936981}
  {:block/name "code books",
-  :block/created-at 1653699917659,
-  :block/updated-at 1653699917659}
+  :block/created-at 1654175932115,
+  :block/updated-at 1654175932115}
  {:block/name "contents",
   :block/created-at 1653699936981,
   :block/updated-at 1654131445799}
@@ -165,14 +168,14 @@
   :block/created-at 1653699936981,
   :block/updated-at 1653699936981}
  {:block/name "investment",
-  :block/created-at 1654160166685,
-  :block/updated-at 1654160166685}
+  :block/created-at 1654175932360,
+  :block/updated-at 1654175932360}
  {:block/name "jun 1st, 2022",
   :block/created-at 1654130882034,
   :block/updated-at 1654130882034}
  {:block/name "jun 2nd, 2022",
   :block/created-at 1654130882832,
-  :block/updated-at 1654130882832}
+  :block/updated-at 1654178606172}
  {:block/name "labs.play-with-docker.com",
   :block/created-at 1654130882139,
   :block/updated-at 1654130882139}
@@ -182,9 +185,6 @@
  {:block/name "linux 就该这么学",
   :block/created-at 1653699918353,
   :block/updated-at 1653699918353}
- {:block/name "machine learning: 基础",
-  :block/created-at 1653699929624,
-  :block/updated-at 1653699929624}
  {:block/name "machine learning_ 基础",
   :block/created-at 1653699929827,
   :block/updated-at 1653699929827}
@@ -224,6 +224,12 @@
  {:block/name "may 23rd, 2022",
   :block/created-at 1653699929700,
   :block/updated-at 1653699929700}
+ {:block/name "may 28th, 2022",
+  :block/created-at 1653745226718,
+  :block/updated-at 1653745226718}
+ {:block/name "may 31st, 2022",
+  :block/created-at 1654004773071,
+  :block/updated-at 1654004773071}
  {:block/name "may 6th, 2022",
   :block/created-at 1653699929625,
   :block/updated-at 1653699929625}
@@ -335,6 +341,9 @@
  {:block/name "python：property属性、with语句、生成器、深拷贝浅拷贝",
   :block/created-at 1653699917280,
   :block/updated-at 1653699917280}
+ {:block/name "python：web开发",
+  :block/created-at 1649242872393,
+  :block/updated-at 1649242872393}
  {:block/name "python：实用技巧",
   :block/created-at 1653699917195,
   :block/updated-at 1653699917195}
@@ -392,6 +401,12 @@
  {:block/name "web开发之javascript",
   :block/created-at 1653699917237,
   :block/updated-at 1653699917237}
+ {:block/name "web开发之客户端编程技术：html",
+  :block/created-at 1649242871465,
+  :block/updated-at 1649242871465}
+ {:block/name "web开发之客户端编程技术：html/css",
+  :block/created-at 1649242871466,
+  :block/updated-at 1649242871466}
  {:block/name "web编程之网络基础",
   :block/created-at 1653699917380,
   :block/updated-at 1653699917380}
@@ -476,6 +491,27 @@
  {:block/name "网络是怎样连接的",
   :block/created-at 1653699918356,
   :block/updated-at 1653699918356}
+ {:block/name "西门子300通讯",
+  :block/created-at 1654178606172,
+  :block/updated-at 1654180441664}
+ {:block/name "西门子300通讯.assets",
+  :block/created-at 1654178625847,
+  :block/updated-at 1654178625847}
+ {:block/name "西门子300通讯.assets/image-1216580001",
+  :block/created-at 1654178625845,
+  :block/updated-at 1654178625845}
+ {:block/name "西门子300通讯.assets/image-20220112164800001",
+  :block/created-at 1654178625843,
+  :block/updated-at 1654178625843}
+ {:block/name "西门子300通讯.assets/image-20220112165300001",
+  :block/created-at 1654178625846,
+  :block/updated-at 1654178625846}
+ {:block/name "西门子300通讯.assets/image-2022011217000001'",
+  :block/created-at 1654178625845,
+  :block/updated-at 1654178625845}
+ {:block/name "西门子300通讯.assets/image-2022011217000002",
+  :block/created-at 1654178625844,
+  :block/updated-at 1654178625844}
  {:block/name "计算机",
   :block/created-at 1653699920577,
   :block/updated-at 1653699920577}
@@ -498,11 +534,11 @@
   :block/created-at 1654130882331,
   :block/updated-at 1654130882331}
  {:block/name "🌏web开发之客户端编程技术：html",
-  :block/created-at 1654130882438,
-  :block/updated-at 1654130882438}
+  :block/created-at 1654175932347,
+  :block/updated-at 1654175932347}
  {:block/name "🌏web开发之客户端编程技术：html/css",
-  :block/created-at 1654130882438,
-  :block/updated-at 1654130882438}
+  :block/created-at 1654175932347,
+  :block/updated-at 1654175932347}
  {:block/name "🌏web开发之客户端编程技术：html/css/javascript",
   :block/created-at 1654130882437,
   :block/updated-at 1654130882437}
@@ -510,8 +546,8 @@
   :block/created-at 1654130882456,
   :block/updated-at 1654130882456}
  {:block/name "🐍python：web开发",
-  :block/created-at 1654130882466,
-  :block/updated-at 1654130882466}
+  :block/created-at 1654175932353,
+  :block/updated-at 1654175932353}
  {:block/name "🐍python：web开发/网络编程",
   :block/created-at 1654130882465,
   :block/updated-at 1654130882465}
