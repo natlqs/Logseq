@@ -1,9 +1,5 @@
 {:meta/version 1
-<<<<<<< HEAD
 
-=======
- 
->>>>>>> e4d710a6ebba5230488b77062abe65b229e0bb8e
  ;; Currently, we support either "Markdown" or "Org".
  ;; This can overwrite your global preference so that
  ;; maybe your personal preferred format is Org but you'd
@@ -30,13 +26,10 @@
 
  :feature/enable-block-timestamps? false
 
-<<<<<<< HEAD
  ;; Specify the date on which the week starts.
  ;; Goes from 0 to 6 (Monday to Sunday), default to 6
  :start-of-week 6
 
-=======
->>>>>>> e4d710a6ebba5230488b77062abe65b229e0bb8e
  ;; Specify a custom CSS import
  ;; This option take precedence over your local `logseq/custom.css` file
  ;; You may find a list of awesome logseq themes here:
@@ -155,7 +148,6 @@
  :commands
  []
 
-<<<<<<< HEAD
  ;; By default, a block can only be collapsed if it has some children.
  ;; `:outliner/block-title-collapse-enabled? true` enables a block with a title
  ;; (multiple lines) can be collapsed too. For example:
@@ -163,8 +155,6 @@
  ;;   block content
  :outliner/block-title-collapse-enabled? false
 
-=======
->>>>>>> e4d710a6ebba5230488b77062abe65b229e0bb8e
  ;; Macros replace texts and will make you more productive.
  ;; For example:
  ;; Add this to the macros below:
@@ -187,12 +177,12 @@
 
  :ref/linked-references-collapsed-threshold 50
 <<<<<<< HEAD
-=======
  :publishing/all-pages-public? false
- :favorites ["Investment" "python：Web开发/网络编程" "9 emoji表情的支持" "Linux基础" "Web开发之客户端编程技术：HTML/CSS/JavaScript" "《Python王者归来》" "Code Books" "Logseq Tutorial"]
+ :favorites ["📓logseq tutorial" "🆒《python王者归来》" "🌏web开发之客户端编程技术：html/css/javascript" "🐧linux基础" "😀😁emoji表情的支持" "🐍python：web开发/网络编程" "🎲investment" "📕code books"]
  :preferred-format :markdown
  :graph/settings {:journal? true}
->>>>>>> e4d710a6ebba5230488b77062abe65b229e0bb8e
+=======
+>>>>>>> f65068c44ca7ecd8c7addde2f9bc1026aa112c2b
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
@@ -220,7 +210,6 @@
 
  ;; ignore #+keyword: for parsing page references in orgmode
  ;; :ignored-page-references-keywords #{"author" "startup"}
-<<<<<<< HEAD
  
  ;; Quick capture templates on mobile for recieving contents from other apps.
  ;; Each template contains three elements {time}, {text} and {url}, which can be auto-expanded
@@ -233,6 +222,4 @@
  ;; :quick-capture-templates
  ;; {:text "[[quick capture]] **{time}**: \n - {text} from {url}"
  ;;  :media "[[quick capture]] **{time}**: \n - {url}"}
-=======
->>>>>>> e4d710a6ebba5230488b77062abe65b229e0bb8e
  }

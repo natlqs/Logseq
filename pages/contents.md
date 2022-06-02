@@ -1,5 +1,5 @@
 - [[🆒《Python王者归来》]]
-- [[《第一本Docker书》]]
+- [[Docker]]
 - [[🌏Web开发之客户端编程技术：HTML/CSS/JavaScript]]
 - [[漫画算法：小灰的算法之旅]]
 - [[《Python Cookbook》]]
@@ -7,14 +7,6 @@
 - [[🐍python：Web开发/网络编程]]
 - [[😀😁emoji表情的支持]]
 - [[十万个为什么]]
-<<<<<<< HEAD
 - [[📕Code Books]]
 - [[🎲Investment]]
-=======
-<<<<<<< HEAD
-- [[Code Books]]
-=======
-- [[Code Books]]
 - [[Investment]]
->>>>>>> e4d710a6ebba5230488b77062abe65b229e0bb8e
->>>>>>> f65068c44ca7ecd8c7addde2f9bc1026aa112c2b

@@ -176,13 +176,6 @@
  :ref/default-open-blocks-level 2
 
  :ref/linked-references-collapsed-threshold 50
-<<<<<<< HEAD
- :publishing/all-pages-public? false
- :favorites ["📓logseq tutorial" "🆒《python王者归来》" "🌏web开发之客户端编程技术：html/css/javascript" "🐧linux基础" "😀😁emoji表情的支持" "🐍python：web开发/网络编程" "🎲investment" "📕code books"]
- :preferred-format :markdown
- :graph/settings {:journal? true}
-=======
->>>>>>> f65068c44ca7ecd8c7addde2f9bc1026aa112c2b
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5

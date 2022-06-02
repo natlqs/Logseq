@@ -1,17 +1,9 @@
 [{:block/name "009100；",
-<<<<<<< HEAD
   :block/created-at 1653699918086,
   :block/updated-at 1653699918086}
  {:block/name "1 安装",
   :block/created-at 1653699917709,
   :block/updated-at 1653699917709}
-=======
-  :block/created-at 1648347512060,
-  :block/updated-at 1648347512060}
- {:block/name "1 安装",
-  :block/created-at 1648001361793,
-  :block/updated-at 1648001795198}
->>>>>>> ee71733ecbbf5063607df3b8a16716b15d057a1f
  {:block/name "10 图片的插入",
   :block/created-at 1653699917732,
   :block/updated-at 1653699917732}
@@ -31,13 +23,8 @@
   :block/created-at 1653699917873,
   :block/updated-at 1653699917873}
  {:block/name "15  (/)命令及高级todolist的构建",
-<<<<<<< HEAD
   :block/created-at 1653699917872,
   :block/updated-at 1653699917872}
-=======
-  :block/created-at 1648535194396,
-  :block/updated-at 1648535194396}
->>>>>>> ee71733ecbbf5063607df3b8a16716b15d057a1f
  {:block/name "16 安装插件和好看的主题",
   :block/created-at 1653699917910,
   :block/updated-at 1653699917910}
@@ -81,18 +68,9 @@
   :block/created-at 1653699918238,
   :block/updated-at 1653699918238}
  {:block/name "8 创建目录",
-<<<<<<< HEAD
-  :block/created-at 1648004198899,
-  :block/updated-at 1648012410430}
-=======
   :block/created-at 1653699918260,
   :block/updated-at 1653699918260}
- {:block/name "9 emoji表情的支持",
-  :block/created-at 1653699917658,
-  :block/updated-at 1653699917658}
->>>>>>> f65068c44ca7ecd8c7addde2f9bc1026aa112c2b
  {:block/name "a",
-<<<<<<< HEAD
   :block/created-at 1653699936981,
   :block/updated-at 1653699936981}
  {:block/name "apr 14th, 2022",
@@ -101,27 +79,12 @@
  {:block/name "apr 1st, 2022",
   :block/created-at 1653699917383,
   :block/updated-at 1653699917383}
-=======
-  :block/created-at 1647598296796,
-  :block/updated-at 1647598296796}
- {:block/name "apr 14th, 2022",
-  :block/created-at 1649899711830,
-  :block/updated-at 1649899722672}
- {:block/name "apr 1st, 2022",
-  :block/created-at 1648777767221,
-  :block/updated-at 1648908833903}
->>>>>>> ee71733ecbbf5063607df3b8a16716b15d057a1f
  {:block/name "apr 26th, 2022",
   :block/created-at 1653699917197,
   :block/updated-at 1653699917197}
  {:block/name "apr 27th, 2022",
-<<<<<<< HEAD
   :block/created-at 1653699917175,
   :block/updated-at 1653699917175}
-=======
-  :block/created-at 1651013586253,
-  :block/updated-at 1651062776114}
->>>>>>> ee71733ecbbf5063607df3b8a16716b15d057a1f
  {:block/name "apr 2nd, 2022",
   :block/created-at 1653699917361,
   :block/updated-at 1653699917361}
@@ -153,52 +116,26 @@
   :block/created-at 1653699917868,
   :block/updated-at 1653699917868}
  {:block/name "card",
-<<<<<<< HEAD
-  :block/created-at 1647598296796,
-  :block/updated-at 1647598296796}
-=======
   :block/created-at 1653699936981,
   :block/updated-at 1653699936981}
  {:block/name "code books",
   :block/created-at 1653699917659,
   :block/updated-at 1653699917659}
->>>>>>> f65068c44ca7ecd8c7addde2f9bc1026aa112c2b
  {:block/name "contents",
-<<<<<<< HEAD
   :block/created-at 1653699936981,
-  :block/updated-at 1653699936981}
-=======
-  :block/created-at 1647598296796,
-  :block/updated-at 1649902715292}
->>>>>>> ee71733ecbbf5063607df3b8a16716b15d057a1f
+  :block/updated-at 1654131445799}
  {:block/name "deep learning with python  françois chollet - 2018",
-<<<<<<< HEAD
-  :block/created-at 1653312522307,
-  :block/updated-at 1653312522307}
- {:block/name "docker",
-  :block/created-at 1654070724592,
-  :block/updated-at 1654094643270}
-=======
   :block/created-at 1653699918366,
   :block/updated-at 1653699918366}
->>>>>>> f65068c44ca7ecd8c7addde2f9bc1026aa112c2b
+ {:block/name "docker",
+  :block/created-at 1654130882033,
+  :block/updated-at 1654130882033}
  {:block/name "doing",
   :block/created-at 1653699936981,
   :block/updated-at 1653699936981}
  {:block/name "done",
-<<<<<<< HEAD
   :block/created-at 1653699936981,
   :block/updated-at 1653699936981}
-=======
-  :block/created-at 1647598296796,
-  :block/updated-at 1647598296796}
-<<<<<<< HEAD
- {:block/name "draws/2022-03-18-22-36-59.excalidraw",
-  :block/created-at 1654078618780,
-  :block/updated-at 1654078618780}
-=======
->>>>>>> ee71733ecbbf5063607df3b8a16716b15d057a1f
->>>>>>> f65068c44ca7ecd8c7addde2f9bc1026aa112c2b
  {:block/name "favorites",
   :block/created-at 1653699936981,
   :block/updated-at 1653699936981}
@@ -210,76 +147,44 @@
   :block/created-at 1653699918365,
   :block/updated-at 1653699918365}
  {:block/name "hls__pythoncookbook第3版中文版_1648437533072_0",
-<<<<<<< HEAD
   :block/created-at 1653699920051,
   :block/updated-at 1653699920051}
  {:block/name "hls__流畅的python.revise11_1648437493133_0",
   :block/created-at 1653699929842,
   :block/updated-at 1653699929842}
-=======
-  :block/created-at 1648474863700,
-  :block/updated-at 1648474863700}
- {:block/name "hls__流畅的python.revise11_1648437493133_0",
-  :block/created-at 1653745226959,
-  :block/updated-at 1653745226959}
->>>>>>> ee71733ecbbf5063607df3b8a16716b15d057a1f
  {:block/name "hls__漫画算法：小灰的算法之旅_1648475038143_0",
   :block/created-at 1653699920084,
   :block/updated-at 1653699920084}
  {:block/name "hls__第一本docker书_1648089244663_0",
-<<<<<<< HEAD
   :block/created-at 1653699920116,
   :block/updated-at 1653699920116}
-=======
-  :block/created-at 1648369857618,
-  :block/updated-at 1648369857618}
-<<<<<<< HEAD
  {:block/name "hub.docker.com",
-  :block/created-at 1654092401318,
-  :block/updated-at 1654092401318}
- {:block/name "in-progress",
-  :block/created-at 1647598296796,
-  :block/updated-at 1647598296796}
- {:block/name "jun 1st, 2022",
-  :block/created-at 1654070610734,
-  :block/updated-at 1654070724596}
- {:block/name "labs.play-with-docker.com",
-  :block/created-at 1654094434768,
-  :block/updated-at 1654094434768}
-=======
->>>>>>> ee71733ecbbf5063607df3b8a16716b15d057a1f
+  :block/created-at 1654130882137,
+  :block/updated-at 1654130882137}
  {:block/name "in-progress",
   :block/created-at 1653699936981,
   :block/updated-at 1653699936981}
  {:block/name "investment",
-<<<<<<< HEAD
-  :block/created-at 1653699929699,
-  :block/updated-at 1653699929699}
-=======
-  :block/created-at 1653312522035,
-  :block/updated-at 1653312522035}
->>>>>>> ee71733ecbbf5063607df3b8a16716b15d057a1f
->>>>>>> f65068c44ca7ecd8c7addde2f9bc1026aa112c2b
+  :block/created-at 1654160166685,
+  :block/updated-at 1654160166685}
+ {:block/name "jun 1st, 2022",
+  :block/created-at 1654130882034,
+  :block/updated-at 1654130882034}
+ {:block/name "jun 2nd, 2022",
+  :block/created-at 1654130882832,
+  :block/updated-at 1654130882832}
+ {:block/name "labs.play-with-docker.com",
+  :block/created-at 1654130882139,
+  :block/updated-at 1654130882139}
  {:block/name "later",
   :block/created-at 1653699936981,
   :block/updated-at 1653699936981}
  {:block/name "linux 就该这么学",
-<<<<<<< HEAD
-  :block/created-at 1653312522270,
-  :block/updated-at 1653312522270}
-=======
   :block/created-at 1653699918353,
   :block/updated-at 1653699918353}
- {:block/name "linux基础",
-  :block/created-at 1653699917406,
-  :block/updated-at 1653699917406}
- {:block/name "logseq tutorial",
-  :block/created-at 1653699918567,
-  :block/updated-at 1653699918567}
  {:block/name "machine learning: 基础",
   :block/created-at 1653699929624,
   :block/updated-at 1653699929624}
->>>>>>> f65068c44ca7ecd8c7addde2f9bc1026aa112c2b
  {:block/name "machine learning_ 基础",
   :block/created-at 1653699929827,
   :block/updated-at 1653699929827}
@@ -311,39 +216,14 @@
   :block/created-at 1653699917408,
   :block/updated-at 1653699917408}
  {:block/name "may 12th, 2022",
-<<<<<<< HEAD
   :block/created-at 1653699917136,
   :block/updated-at 1653699917136}
-=======
-  :block/created-at 1653312521993,
-  :block/updated-at 1653312521993}
->>>>>>> ee71733ecbbf5063607df3b8a16716b15d057a1f
  {:block/name "may 19th, 2022",
   :block/created-at 1653699917110,
   :block/updated-at 1653699917110}
  {:block/name "may 23rd, 2022",
-<<<<<<< HEAD
   :block/created-at 1653699929700,
   :block/updated-at 1653699929700}
- {:block/name "may 28th, 2022",
-  :block/created-at 1653699917121,
-  :block/updated-at 1653699917121}
- {:block/name "may 30th, 2022",
-  :block/created-at 1653872027827,
-  :block/updated-at 1653872027827}
-=======
-  :block/created-at 1653312522036,
-  :block/updated-at 1653312522036}
- {:block/name "may 28th, 2022",
-  :block/created-at 1653745226718,
-  :block/updated-at 1653745226718}
-<<<<<<< HEAD
- {:block/name "may 31st, 2022",
-  :block/created-at 1654004773071,
-  :block/updated-at 1654004773071}
-=======
->>>>>>> ee71733ecbbf5063607df3b8a16716b15d057a1f
->>>>>>> f65068c44ca7ecd8c7addde2f9bc1026aa112c2b
  {:block/name "may 6th, 2022",
   :block/created-at 1653699929625,
   :block/updated-at 1653699929625}
@@ -455,17 +335,6 @@
  {:block/name "python：property属性、with语句、生成器、深拷贝浅拷贝",
   :block/created-at 1653699917280,
   :block/updated-at 1653699917280}
- {:block/name "python：web开发",
-<<<<<<< HEAD
-  :block/created-at 1649242872393,
-  :block/updated-at 1649242872393}
-=======
-  :block/created-at 1653699917382,
-  :block/updated-at 1653699917382}
- {:block/name "python：web开发/网络编程",
-  :block/created-at 1653699917382,
-  :block/updated-at 1653699917382}
->>>>>>> f65068c44ca7ecd8c7addde2f9bc1026aa112c2b
  {:block/name "python：实用技巧",
   :block/created-at 1653699917195,
   :block/updated-at 1653699917195}
@@ -482,19 +351,11 @@
   :block/created-at 1653699917360,
   :block/updated-at 1653699917360}
  {:block/name "qt5 python gui programming cookbook - 2018",
-<<<<<<< HEAD
   :block/created-at 1653699918363,
   :block/updated-at 1653699918363}
  {:block/name "readme",
   :block/created-at 1653699917690,
   :block/updated-at 1653699917690}
-=======
-  :block/created-at 1653312522300,
-  :block/updated-at 1653312522300}
- {:block/name "readme",
-  :block/created-at 1653745226701,
-  :block/updated-at 1653745226701}
->>>>>>> ee71733ecbbf5063607df3b8a16716b15d057a1f
  {:block/name "tcp+sockets编程",
   :block/created-at 1653699918354,
   :block/updated-at 1653699918354}
@@ -531,20 +392,6 @@
  {:block/name "web开发之javascript",
   :block/created-at 1653699917237,
   :block/updated-at 1653699917237}
- {:block/name "web开发之客户端编程技术：html",
-  :block/created-at 1653699917279,
-  :block/updated-at 1653699917279}
- {:block/name "web开发之客户端编程技术：html/css",
-<<<<<<< HEAD
-  :block/created-at 1649242871466,
-  :block/updated-at 1649242871466}
-=======
-  :block/created-at 1653699917280,
-  :block/updated-at 1653699917280}
- {:block/name "web开发之客户端编程技术：html/css/javascript",
-  :block/created-at 1653699917278,
-  :block/updated-at 1653699917278}
->>>>>>> f65068c44ca7ecd8c7addde2f9bc1026aa112c2b
  {:block/name "web编程之网络基础",
   :block/created-at 1653699917380,
   :block/updated-at 1653699917380}
@@ -552,16 +399,8 @@
   :block/created-at 1653699918315,
   :block/updated-at 1653699918315}
  {:block/name "《python cookbook》",
-<<<<<<< HEAD
-  :block/created-at 1648474863833,
-  :block/updated-at 1648537830723}
-=======
   :block/created-at 1653699917656,
   :block/updated-at 1653699917656}
- {:block/name "《python王者归来》",
-  :block/created-at 1653699917501,
-  :block/updated-at 1653699917501}
->>>>>>> f65068c44ca7ecd8c7addde2f9bc1026aa112c2b
  {:block/name "《一个人的第一次》",
   :block/created-at 1653699918122,
   :block/updated-at 1653699918122}
@@ -569,13 +408,8 @@
   :block/created-at 1653699918121,
   :block/updated-at 1653699918121}
  {:block/name "《第一本docker书》",
-<<<<<<< HEAD
   :block/created-at 1653699917500,
   :block/updated-at 1653699917500}
-=======
-  :block/created-at 1648369857032,
-  :block/updated-at 1648369857032}
->>>>>>> ee71733ecbbf5063607df3b8a16716b15d057a1f
  {:block/name "《非暴力沟通》",
   :block/created-at 1653699918122,
   :block/updated-at 1653699918122}
@@ -592,13 +426,8 @@
   :block/created-at 1653699918355,
   :block/updated-at 1653699918355}
  {:block/name "切蛋糕问题--什么是公平？如何分配利益才能大家都满意？",
-<<<<<<< HEAD
   :block/created-at 1653699929819,
   :block/updated-at 1653699929819}
-=======
-  :block/created-at 1653312523003,
-  :block/updated-at 1653312523003}
->>>>>>> ee71733ecbbf5063607df3b8a16716b15d057a1f
  {:block/name "十万个为什么",
   :block/created-at 1653699917217,
   :block/updated-at 1653699917217}
@@ -609,13 +438,8 @@
   :block/created-at 1653699920677,
   :block/updated-at 1653699920677}
  {:block/name "技术",
-<<<<<<< HEAD
   :block/created-at 1653699920578,
   :block/updated-at 1653699920578}
-=======
-  :block/created-at 1648369859395,
-  :block/updated-at 1648369859395}
->>>>>>> ee71733ecbbf5063607df3b8a16716b15d057a1f
  {:block/name "李永乐讲经济",
   :block/created-at 1653699929832,
   :block/updated-at 1653699929832}
@@ -650,13 +474,8 @@
   :block/created-at 1653699917787,
   :block/updated-at 1653699917787}
  {:block/name "网络是怎样连接的",
-<<<<<<< HEAD
   :block/created-at 1653699918356,
   :block/updated-at 1653699918356}
-=======
-  :block/created-at 1653312522277,
-  :block/updated-at 1653312522277}
->>>>>>> ee71733ecbbf5063607df3b8a16716b15d057a1f
  {:block/name "计算机",
   :block/created-at 1653699920577,
   :block/updated-at 1653699920577}
@@ -673,34 +492,38 @@
   :block/created-at 1653699929865,
   :block/updated-at 1653699929865}
  {:block/name "鸟哥的linux私房菜基础学习篇",
-<<<<<<< HEAD
-  :block/created-at 1653312522271,
-  :block/updated-at 1653312522271}
+  :block/created-at 1653699918353,
+  :block/updated-at 1653699918353}
  {:block/name "🆒《python王者归来》",
-  :block/created-at 1648369857037,
-  :block/updated-at 1650933350572}
+  :block/created-at 1654130882331,
+  :block/updated-at 1654130882331}
+ {:block/name "🌏web开发之客户端编程技术：html",
+  :block/created-at 1654130882438,
+  :block/updated-at 1654130882438}
+ {:block/name "🌏web开发之客户端编程技术：html/css",
+  :block/created-at 1654130882438,
+  :block/updated-at 1654130882438}
  {:block/name "🌏web开发之客户端编程技术：html/css/javascript",
-  :block/created-at 1649242871464,
-  :block/updated-at 1649337807850}
+  :block/created-at 1654130882437,
+  :block/updated-at 1654130882437}
  {:block/name "🎲investment",
-  :block/created-at 1653312522035,
-  :block/updated-at 1653312522035}
+  :block/created-at 1654130882456,
+  :block/updated-at 1654130882456}
+ {:block/name "🐍python：web开发",
+  :block/created-at 1654130882466,
+  :block/updated-at 1654130882466}
  {:block/name "🐍python：web开发/网络编程",
-  :block/created-at 1648821175095,
-  :block/updated-at 1648859701865}
+  :block/created-at 1654130882465,
+  :block/updated-at 1654130882465}
  {:block/name "🐧linux基础",
-  :block/created-at 1648777767324,
-  :block/updated-at 1648821077052}
+  :block/created-at 1654130882463,
+  :block/updated-at 1654130882463}
  {:block/name "📓logseq tutorial",
-  :block/created-at 1647739894955,
-  :block/updated-at 1648262548489}
+  :block/created-at 1654130882642,
+  :block/updated-at 1654130882642}
  {:block/name "📕code books",
-  :block/created-at 1653312522309,
-  :block/updated-at 1653312522309}
+  :block/created-at 1654130882768,
+  :block/updated-at 1654130882768}
  {:block/name "😀😁emoji表情的支持",
-  :block/created-at 1648004255083, 
-  :block/updated-at 1648012743729}]
-=======
-  :block/created-at 1653699918353, 
-  :block/updated-at 1653699918353}]
->>>>>>> f65068c44ca7ecd8c7addde2f9bc1026aa112c2b
+  :block/created-at 1654130882622, 
+  :block/updated-at 1654130882622}]
