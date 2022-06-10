@@ -5,7 +5,7 @@ public:: true
 	- ### What is Docker?
 		- A platform for building, running and shipping applications
 		- #### Why you need docker?
-			- if you are a application developer, you might meet such questions before, the software works well on your develop computer, but does't work well on other computer, the main reason is :
+			- if you are an application developer, you might meet such questions before, the software works well on your develop computer, but does't work well on other computer, the main reason is :
 				- One or more files missing
 				- Software version mismatch
 				- Different configuration settings
