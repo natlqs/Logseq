@@ -3,7 +3,6 @@
 - [[《第一本Docker书》]]
 - [[《Python Cookbook》]]
 - [[Linux 就该这么学]]
-- [[鸟哥的linux私房菜基础学习篇]]
 - [[GitHub入门与实践]]
 - [[TCP+Sockets编程]]
 - [[python数据可视化编程实战]]
