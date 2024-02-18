@@ -1,0 +1,1 @@
+- ![Deep Learning with Python  François Chollet - 2018.pdf](../assets/Deep_Learning_with_Python_François_Chollet_-_2018_1648366359293_0.pdf)

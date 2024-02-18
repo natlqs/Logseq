@@ -1,0 +1,5 @@
+- ### JS概述
+	- JavaScript（简称“JS”）是一种轻量级的面向对象的编程语言，既能用在浏览器中控制页面交互，也能用在服务器端作为网站后台（借助 Node.js），因此 JavaScript 是一种全栈式的编程语言。
+	- JavaScript 是一种跨平台的解释型语言，不需要提前编译，能在各种操作系统下运行。
+	- jave和JavaScript没有任何关系，java运行在JVM当中，JavaScript运行在浏览器中，Javascript以前叫做LiveScript，是网景公司”布兰登艾奇“开发的。在历史的某个阶段SUN公司和网景公司有过合作，SUN公司将LiveScript改名为JaveScript，蹭java的热度，搭上了java的顺风车。
+-

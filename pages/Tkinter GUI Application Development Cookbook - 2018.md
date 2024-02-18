@@ -1,0 +1,1 @@
+- ![Tkinter GUI Application Development Cookbook - 2018.pdf](../assets/Tkinter_GUI_Application_Development_Cookbook_-_2018_1648366373534_0.pdf)

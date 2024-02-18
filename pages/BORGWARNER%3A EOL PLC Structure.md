@@ -1,0 +1,47 @@
+title:: BORGWARNER: EOL PLC Structure
+
+- ## OB1 MainCycle
+	- ### FB1201 Robort， DB2
+	- ### FC170 PC To PLC， FC169 PLC To PC
+	- ### FC1900 RFID_Control
+	- ### FC1700 泄露分析仪
+	- ### FB199 油， DB199
+	- ### FC190 PILZ
+	- ### FC15000 Cognex_DataMan_Control
+	- ### FC1610 空气加热器
+	- ### FC180 NVH控制
+	- ### FC184 配方
+	- ### FC185 权限卡
+	- ### FC41 PCS步骤
+	- ### 增压器码
+- ## OB130 MainCycle
+	- ### FC1001 System I/O
+	- ### FB1001 PowerOnStatus , DB1001
+	- ### FB1002 Operating Mode , DB1002
+	- ### FB1003 Machine Light , DB1003
+	- ### FC1800 HMI Calls
+	- ### FC1818 Alarms&Message
+	- ### FC1206 泄露开机验证
+	- ### FC1207 功能开机验证
+- ## OB 140 MainCycle
+	- ### FC2000 HMI Lite Manage
+	- ### FB420 Manual Group Summary , DB420
+- ## OB151 上下料 Main
+	- ### FB151 上料 ， DB151
+	- ### FB1620 Logic Time, DB19
+- ## OB152 泄露 Main
+	- ### FB152 泄露_GRAPH
+	- ### FB3100 动作选择功能 , DB172 泄露仪
+	- ### FB3100 动作选择功能 , DB182 气缸
+	- ### FB3100 动作选择功能 , DB192 测试准备动作
+	- ### FB1620 Logic_Time , DB17
+- ## OB153 功能 Main
+	- ### FB153 功能_GRAPH , DB153
+	- ### FB189 油自动， DB189
+	- ### FB1620 Logic Time，DB18
+- ## OB155 转台 Main
+	- ### FB155 转台_GRAPH , DB175
+	- ### FB1620 Logic_Time , DB16
+	- ### FB2100 SERVO_Control , DB2102
+-
+-

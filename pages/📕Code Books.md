@@ -1,0 +1,44 @@
+- ## Python：
+	- [[王炳明：Python中文指南V1.0]]
+	- [[王炳明：Python教程]]
+	- [[Python常见问题]]
+	- [[王炳明：Python常用索引]]
+	- [[Python Tutorial]]
+	- [[Python计算机视觉编程]]
+	- [[Python机器学习实践指南]]
+	- [[Python数据分析基础]]
+	- [[Python网络编程攻略]]
+	- [[流畅的Python.revise11]]
+	- [[Python数据挖掘入门与实践]]
+	- [[Python网络数据采集]]
+	- [[Python数据挖掘入门与实践]]
+	- [[Python网络数据采集]]
+	- [[Python机器学习经典实例]]
+	- [[Python机器学习基础教程]]
+	- [[《Python Cookbook》]]
+	- [[python数据可视化编程实战]]
+	- [[Deep Learning with Python  François Chollet - 2018]]
+	- [[Tkinter GUI Application Development Cookbook - 2018]]
+	- [[Website Scraping with Python - 2018]]
+	- [[QT5 Python GUI Programming Cookbook - 2018]]
+	- [[Python高效开发实战Django、Tornado、Flask、Twisted - 2016]]
+	- [[pythonlearn]]
+	- [[Python GUI Programming Cookbook 2nd - 2017]]
+	- [[Python for Data Analysis, 2nd Edition - 2017]]
+	- [[Hands-On Machine Learning with Scikit-Learn and TensorFlow - 2017]]
+	- [[Deep Learning with Python  François Chollet - 2018]]
+- ## 算法
+	- [[漫画算法：小灰的算法之旅]]
+- ## Docker：
+	- [[《第一本Docker书》]]
+- ## Linux:
+	- [[Linux 就该这么学]]
+- ## Github:
+- [[GitHub入门与实践]]
+- ## 网络编程：
+	- [[TCP+Sockets编程]]
+	- [[网络是怎样连接的]]
+- ## 函数式编程：
+	- [[函数式编程思维]]
+- ## Vim：
+	- [[vim实用技巧_第2版_使用模式入门篇]]

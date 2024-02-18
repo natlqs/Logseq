@@ -1,0 +1,297 @@
+- **Chinese-American Relations: A History (I)**
+- 中美关系史（一）
+- The Nineteenth Century to World War II The Nineteenth Century In the 19th century, the United States was a relative newcomer to the area of international affairs.
+- 十九世纪，美国在国际事务中是一个相对较新的面孔。
+- relative /ˈrelətɪv/ adj. 相比较而言的，比较的；相对的，相关联的；n. 亲戚，亲属；同类事物，亲缘动物（或植物）；（语法）关系代词，关系限定词，关系副词；（哲学）关系项；相关物
+- newcomer /ˈnuːkʌmər/ n. 新来者，新手；新鲜事物
+- affairs /əˈferz/ n. 事务，事宜；风流韵事（affair 的复数）
+- Relations with China really began, not so subtly, in the 19th century with its discriminatory immigration policy against China.
+- 美国与中国的关系真正开始于19世纪，当时美国对中国采取了歧视性的移民政策。
+- subtly /ˈsʌtəli/ adv. 精细地；巧妙地；敏锐地
+- discriminatory /dɪˈskrɪmɪnətɔːri/ adj. 区别对待的，歧视的，不公平的
+- immigration /ˌɪmɪˈɡreɪʃn/ n. 移民（入境）；移民人数；移民局入境检查，移民局入境检查处
+- The Gold Rush of 1849 in California, the building of railroads, and the American industrial revolution of the second half of the 19th century, attracted many Chinese immigrants with dreams of the good life in America.
+- 1849年加州淘金热、铁路建设和19世纪下半叶的美国工业革命，吸引了许多梦想在美国过上美好生活的中国移民。
+- At that time, it was perceived by most of the world, that America was the land of opportunity, success, and wealth.
+- 当时，世界上大多数人都认为，美国是一片充满机遇、成功和财富的土地。
+- perceived /pə'sivd/ v. 认为；感知；领会（perceive 的过去式和过去分词）adj. 感知到的；感观的
+- As the Chinese population in the United States grew in size, pressures to limit the number of these coming into the United States became strong.
+- 随着在美国的中国人口规模的增长，限制进入美国的中国人数量的压力变得强大。
+- size /saɪz/ n. 规模，大小，尺寸；庞大，巨大；数量；（尤指衣服、鞋子等的）尺寸，尺码；特定尺寸；相应尺码的人（或衣物）；（使纸张、布料坚挺且光亮的）浆料，（贴壁纸用的）涂料v. 依大小分类（或排列）；按一定大小制作；改变......的大小； 给（衣服、纸张等）上浆，给......涂胶
+- Laws, such as placing a police tax on Chinese people in California in 1862 and The Chinese Exclusion Act passed in 1882, officially testified to blatant discrimination against Chinese people.
+- 一些法律，如1862年在加州对华人征收警察税，以及1882年通过的《排华法案》(Chinese Exclusion Act)，都正式证明了对华人的公然歧视。
+- placing /ˈpleɪsɪŋ/ n. 名次、排名；安放、安置；订货；（大量）售股、发行新股；一种通过中介机构发行证券的方法v. 放置；安排；安置……就业；排名；（橄榄球）定位球得分（place 的现在分词）
+- Exclusion /ɪkˈskluːʒn/ n. 排斥，排除在外；被排除在外的人（或事物）；认为不可能；（合约中的）除外事项；<英>开除学籍
+- testified /ˈtestɪfaɪ/ v. 证明，证实；作证（testify 的过去式和过去分词）
+- blatant /ˈbleɪt(ə)nt/ adj. 喧嚣的；公然的；炫耀的；俗丽的
+- discrimination /dɪˌskrɪmɪˈneɪʃn/ n. 歧视，区别对待；区分，辨别；辨别力，鉴赏力
+- The latter felt forced to congregate in areas of big cities, such as San Francisco, New York, and Boston. Chinatown soon became part of American urban vocabulary.
+- 后者被迫聚集在大城市的地区，如旧金山、纽约和波士顿。唐人街很快成为美国城市词汇的一部分。
+- congregate /ˈkɑːŋɡrɪɡeɪt/ v.聚集，集合adj. 集合在一起的
+- urban /ˈɜːrbən/ adj. 城市的，城镇的；黑人音乐的；住在都市的
+- vocabulary /vəˈkæbjəleri/ n. （某人掌握或使用的）全部词汇；（某一语言的）词汇；（某个学科的）专业词汇，术语；（尤指外语教科书中的）词汇表；（美术、音乐等领域的）表现形式，表达手段
+- It seemed that the timid Chinese were susceptible to being pushed around.
+- 胆小的中国人似乎很容易受人摆布。
+- susceptible /səˈseptəbl/ adj.易受影响的，易得病的；（人）易受感动的，易动感情的；可能有……的，容许……的；
+- pushed /pʊʃt/ v. 逼迫；推；挤；adj. 处于窘境的；为难的；推挤现象的；push 的过去式和过去分词
+- It appeared that Chinese and other Oriental immigrants were not welcome with open arms, but were welcome only when hard labour was needed to do the toughest jobs, especially in railroad construction and in the new industries that were fast developing at the time.
+- 看来，中国和其他东方移民是不受欢迎的，但只有在从事最艰苦的工作时才受到欢迎，特别是在铁路建设和当时快速发展的新行业。
+- appeared /əˈpɪrd/ v. 似乎；出现；发表；提及（appear 的过去式和过去分词）
+- Oriental /ˌɔːriˈentl/ adj. 东方人的；东方的n. 东方人
+- labour /ˈleɪbər/ n. 劳动；任务，（一段时间的）工作；劳工，工人，劳动力；分娩，临盆；工会； v. 劳动，劳作；努力做（困难的事）；费力地行进；误以为，为……所蒙蔽；一再重申，反复说明；
+- toughest /ˈtʌfəst/ adj. 最坚强的；最坚韧的；最粗暴的；最苛刻的（tough的最高级）
+- It would be well into the 20th century before such discriminatory laws would be suspended.
+- 直到20世纪，这种歧视性的法律才会被暂停。
+- discriminatory /dɪˈskrɪmɪnətɔːri/ adj. 区别对待的，歧视的，不公平的
+- suspended /səˈspendɪd/ v. 暂停，悬挂；停止，中止；（因犯错而）暂令停职；暂令停学；暂令停止参加活动；悬浮，漂浮（suspend 的过去式和过去分词）
+- The Early Twentieth Century
+- 二十世纪早期
+- During the second half of the 19th century, the United States was preoccupied with a civil war and a post civil war industrial revolution.
+- 19世纪下半叶，美国正忙于内战和战后工业革命。
+- preoccupied /priˈɑːkjupaɪd/ adj. 全神贯注的，心事重重的；被先占的v. 使全神贯注，占据（某人的思想）；提前占据（preoccupy 的过去式和过去分词形式）
+- civil war /ˌsɪvl ˈwɔː(r)/ 内战
+- civil /ˈsɪvl/ adj. 公民的，国民的，国内的；平民的，民用的；文明的，有礼貌的；民法的（非刑法的），民事的；习俗规定的，历法规定的
+- post /poʊst/ prep. 在……之后
+- American foreign policy with China did not really take form until 1899 and 1900.
+- 美国对中国的外交政策直到1899年和1900年才真正形成。
+- take form v.形成，成形
+- By the turn of the century, the United States was ascending as a major player in international affairs, especially in the western hemisphere.
+- 在世纪之交，美国正在上升为国际事务的主要参与者，特别是在西半球。
+- ascending /əˈsendɪŋ/ adj. 上升的，增长的；升（序）的v. 上升；攀登（ascend 的现在分词）
+- player /ˈpleɪər/ n. 参与者，角色；（录音或录像的）播放器；剧团运动员，选手；（乐器的）演奏者；
+- affairs /əˈferz/ n. 事务，事宜；风流韵事（affair 的复数）
+- hemisphere /ˈhemɪsfɪr/ n. （地球的）半球；脑半球；（球体的）一半
+- American foreign policy, at the time, focused mostly on Latin America.
+- 当时，美国的外交政策主要集中在拉丁美洲。
+- at the time在那时，那时候
+- mostly /ˈmoʊstli/ adv. 多半，主要地；几乎全部，几乎所有
+- However, in 1899, the Americans saw economic opportunities in an already politically suppressed China.
+- 然而，在1899年，美国人在已经受到政治压制的中国看到了经济机会。
+- politically /pəˈlɪtɪkli/ adv. 政治上
+- suppressed /səˈprest/ v. 压制，镇压；阻碍发展；禁止（发表、传播）；封锁；抑制；阻止；部分消除（电干扰）；自觉抑制（不愉快的记忆）（suppress 的过去时和过去分词）adj. 被封锁的；被抑制的；被镇压的
+- For decades, European countries had been reaping the economic benefits by exploiting of the country's resources and markets while claiming chunks of territory as their own.
+- 几十年来，欧洲国家一直在通过开发该国的资源和市场，同时声称其大片领土是自己的，从而获得经济利益。
+- reaping /ˈriːpɪŋ/ v. 收割，获得（reap的ing形式）
+- exploiting /ɪkˈsplɔɪtɪŋ/ n. 利用；开拓v. 利用；开发（exploit 的 ing 形式）
+- while /waɪl/ conj. 当……的时候；与……同时；而，然而（表示对比）；尽管，虽然；直到……为止n. 一段时间；同时；<文>在此期间v. 消磨时间
+- chunks /tʃʌŋks/ n. 大块，矮胖的人或物（chunk 的复数形式）
+- territory /ˈterətɔːri/ n. 领土，版图，领地；地区，地方；
+- It had become a closed club of the countries already established there.
+- 它已经成为一个由已经在那里建立的国家组成的封闭俱乐部。
+- The United States, fearing that China was about to officially partitioned, wanted access to those lucrative assets as well.
+- 美国担心中国即将正式分裂，也想要进入这些利润丰厚的资产。
+- partitioned /pɑrˈtɪʃən/ adj. 分割的；分区的；分段的vt. 划分（partition 的过去分词）；[数]分割；把……分成部分
+- access /ˈækses/ v. 进入，接近；获取，访问（计算机信息）n. 入口，通道；获得的机会，使用权；（对计算机存储器的）访问，存取；（情感）爆发，发作；探视权
+- lucrative /ˈluːkrətɪv/ adj. 获利多的，赚大钱的
+- assets /ˈæsets/ n. 资产；宝贵的人材；有益的品质；[经] 财产；有利条件 （一项）财物；资产（asset的名词复数）；（商店、破产者等的）财产；遗产；有价值的人或物
+- American Secretary of State, John Hay, perhaps using some Big Stick and gunboat tactics, popular American strategies at the time, was well positioned to get the established foreign nations in China to conform to an agreement called the Open Door policy for China.
+- 美国国务卿约翰·海(John Hay)或许使用了一些大棒战术和炮舰战术，这是当时美国流行的战略，他处于有利地位，能够让中国的老牌国家遵守一项名为“门户开放政策”的协议。
+- Secretary of State /ˌsekrətri əv ˈsteɪt/ n. （英）国务大臣；（美）国务卿；（美）州政府秘书长
+- Stick n. 枯枝，枝条；条状物，棍状物；（用于某特定用途的）棍，条，签；球棍，球棒；指挥棒；变速杆，操纵杆；惩戒，惩罚；v. 粘，贴；铭记在心，经久不忘；刺，扎，戳；（随便）摆放，放置；伸出，突出；卡住，钉住；容忍，忍受；
+- gunboat /ˈɡʌnboʊt/ n. 炮艇；小炮舰
+- tactics /ˈtæktɪks/ n. 战术，兵法；方法，策略，手法（tactic 的复数）
+- strategies /ˈstrætədʒiz/ n. 策略，战略（strategy 的复数）
+- positioned /pəˈzɪʃnd/ adj. 放置的v. 放置；确定……的位置（position 的过去分词）
+- established /ɪˈstæblɪʃt/ adj. 确立已久的，早已投入使用的；资深的，知名的；（植物）已生根的，长势良好的
+- conform /kənˈfɔːrm/ v. 遵守，符合；顺从，随潮流；一致，相吻合
+- This benchmark intervention by the United States, conferred on all countries, equal and impartial trade with all parts of China, while preserving the territorial and administrative integrity of the country.
+- 美国的这一基准干预，赋予所有国家与中国各地平等和公正的贸易，同时维护中国的领土和行政完整。
+- benchmark /ˈbentʃmɑːrk/ n. 基准；（监测计算机性能的）基准（问题）标准检查程序；（测量高度的）水准点，基准点v. （根据某种标准）评估，衡量；基准问题检测结果为
+- intervention /ˌɪntərˈvenʃn/ n. 干预，介入；调停，斡旋；（为改善情况尤指病痛采取的）措施，做法
+- conferred /kənˈfɜːr/ v. 授予，赋予；商讨，交换意见
+- impartial adj. 公正的，不偏不倚的
+- preserving /prɪˈzɜːrv/ n. 保留，保存
+- territorial /ˌterəˈtɔːriəl/ adj. 领土的，领海的；（人类或动物）有地盘意识的，领地性的；地区的，地方的；(美国）准州的，（加拿大）地方的n. （英国）本土防卫义勇军士兵（或军官）
+- administrative /ədˈmɪnɪstreɪtɪv/ adj. 管理的，行政的
+- integrity /ɪnˈteɡrəti/ n.完整，完全；正直，诚实；职业操守；（电子数据的）集成度
+- The American approach did little to respect China's customary opposition to foreign intrusion.
+- 美国的做法几乎没有尊重中国一贯反对外国入侵的立场。
+- approach /əˈproʊtʃ/ n. 方法，态度；靠近，接近；接洽，要求；通道，路径；进场着陆；近似物 v. 靠近，临近；接洽，交谈；对付，处理；近似，接近于
+- customary /ˈkʌstəmeri/ adj. 习俗的，习惯的；特有的，典型的；<法律>按习惯法的，依惯例的；与非洲黑人传统（或法律）有关的
+- opposition /ˌɑːpəˈzɪʃ(ə)n/ n. （强烈的） 反对，反抗；对手，竞争者（the opposition）；反对党，在野党（ the Opposition）；对立，对立的事物；（天文，占星）冲
+- intrusion /ɪnˈtruːʒn/ n. 入侵，扰乱，侵犯；闯入，侵入；（对周围岩层的）火成岩侵入
+- To China, the United States was only one more country to bully it, to exploit its resources and sovereignty and, further, to deny it of its autonomy, integrity, and dignity.
+- 对中国来说，美国只不过是又一个欺负它的国家，剥削它的资源和主权，进一步剥夺它的自治、完整和尊严。
+- bully /ˈbʊli/v. 欺侮，威吓；威胁，胁迫 n. 恃强凌弱者，横行霸道者；<非正式>腌牛肉
+- exploit /ɪkˈsplɔɪt/ v. 剥削，压榨；利用（……为自己谋利）；运用，发挥；开发，开拓n. 英勇事迹，壮举；大胆的表演，不凡的身手
+- sovereignty /ˈsɑːvrənti/ n. 主权，最高统治权，最高权威；独立自主；主权国家，自治州
+- further /ˈfɜːrðər/ adv. 更远地，再往前地；进一步；此外，而且adj. 更多的，进一步的；（距离上）更远的，较远的v. 促进，推进
+- autonomy /ɔːˈtɑːnəmi/ n. 自治，自治权；独立自主，自主权
+- dignity /ˈdɪɡnəti/ n. 尊严，自尊；庄严，端庄，庄重；尊贵，高贵，高尚；高位
+- This collective foreign presence, boosted by American interests, diffused any hope for China to break the chains of humiliating foreign occupation.
+- 这种外国的集体存在，受到美国利益的推动，使任何希望中国打破屈辱的外国占领的锁链的希望都破灭了。
+- collective /kəˈlektɪv/ adj. 集体的，共同的；总的，集合的n. 集体农庄，集体企业；集合名词
+- presence /ˈprezns/ n. 存在，出席；（某人的）所在地方；感觉中的存在物（如鬼魂）；驻扎部队，驻扎的警力；风度，气质；（公司在某地的）工人（或产品），势力
+- diffused /dɪˈfjuːzd/ adj. 散布的，扩散的；普及的v. 散布，传播（diffuse 的过去分词）；使分散
+- humiliating /hjuːˈmɪlieɪtɪŋ/ adj. 丢脸的；羞辱性的v. 使蒙耻（humiliate 的 ing 形式）
+- occupation /ˌɑːkjuˈpeɪʃn/ n. 工作，职业；消遣，业余活动；（尤指军队的）占领，控制；（房屋等地方的）居住，使用
+- The Chinese were virtually captives or prisoners in their own country.
+- 中国人在自己的国家实际上是俘虏或囚犯。
+- virtually /ˈvɜːrtʃuəli/ adv. 事实上，几乎；虚拟地，模拟地
+- captives /ˈkæptɪvz/ n. 俘虏；专属公司（captive 的复数）
+- The United States did not deviate far from this economic policy toward China, until the communist take over in 1949.
+- 在1949年共产党执政之前，美国并没有偏离这种对华经济政策太多。
+- deviate /ˈdiːvieɪt/ v. 偏离，违背；使偏离，使背离adj. 反常的，变态的n. 异常者，变态者
+- communist /ˈkɑːmjənɪst/ n. 共产主义者，共产党党员adj. 共产主义的，共产党党员的；共产党的（Communist）
+- take over接管；接收
+- One could only imagine how the Chinese must have felt at the turn of the century.
+- 人们只能想象世纪之交的中国人会有什么样的感受。
+- at the turn of在转弯处
+- Could any American imagine a scenario of the shoe being on the other foot (putting themselves in the place of the Chinese)?
+- 有哪个美国人能想象鞋在另一只脚(把他们自己放在中国人的位置上)的情形吗?
+- scenario /səˈnærioʊ/ n. 设想，可能发生的情况 ；（电影、戏剧等的）剧情梗概；（艺术或文学作品中的）场景
+- in the place of在……的地方
+- How would Americans have felt if Chinese gunboats patrolled the Mississippi River up to St. Louis, a major city in the heart of America?
+- 如果中国的炮艇在密西西比河上巡逻到美国中心城市圣路易斯，美国人会作何感想?
+- gunboats /ˈɡʌnboʊt/ n. 炮艇；小炮舰
+- patrolled /pəˈtroʊl/ v. （尤指士兵或员警）巡逻，巡查；（尤指威胁性）逛荡，闲逛n. 巡逻，巡查；巡逻队，巡逻车；
+- What if the Chinese could come and go anywhere in the United States, being completely immune to all American laws.
+- 如果中国人可以去美国的任何地方，完全不受美国法律的约束，那该怎么办?
+- completely /kəmˈpliːtli/ adv. 完全地，彻底地
+- immune /ɪˈmjuːn/ adj. 不受影响的；免疫的；免除的，豁免的n. 免疫者，免除者
+- Could Americans accept Chinatown in Boston of San Francisco being under Chinese law, and displaying signs with such captions as “No Americans or dogs allowed”?
+- 美国人能接受旧金山波士顿的唐人街在中国法律之下，并展示“美国人和狗不得入内”的标语吗?
+- captions n. 标语，题注，字幕；插图说明（caption 的复数形式）v. 加上标题（caption 的第三人称单数形式）
+- What if Manhattan Island and California were annexed by China?
+- 如果曼哈顿岛和加利福尼亚被中国吞并会怎样?
+- annexed /ˈænekst; əˈnekst/ adj. 附加的，附属的v. 附加（annex 的过去分词）
+- Would Americans tolerate their own officials being in collusion with, and being bribed by Chinese authorities, to let all of above to take place?
+- 美国人会容忍他们自己的官员与中国当局串通，接受中国当局的贿赂，从而让上述一切发生吗?
+- collusion /kəˈluːʒn/ n. 勾结；共谋
+- bribed /braɪb/ n. 贿赂；（尤指用来哄小孩做事的）好处v. 向……行贿；诱哄（尤指小孩）
+- authorities /əˈθɔːrətiz/ n. 当局，官方；官方机构；权威人士（authority 的复数）
+- One would think not. Is it any wonder that imperialism had become such an abominable term to the Chinese people?
+- 有人会认为不会。难怪中国人民对帝国主义如此憎恶?
+- imperialism /ɪmˈpɪriəlɪzəm/ n. 帝国主义；势力扩大，扩张主义；帝制，帝王统治
+- abominable /əˈbɑːmɪnəbl/ adj. 讨厌的，令人憎恶的；糟糕的，极坏的
+- The Chinese have made some conscientious attempts to fight back, in efforts to defy foreign presence in China, but without much support during the slack reign of the Qing Emperor and the Dowager Empress.
+- 中国人已经做出了一些认真的反击尝试，试图反抗外国势力在中国的存在，但在清朝皇帝和慈禧太后的疲软统治期间，没有得到多少支持。
+- conscientious /ˌkɑːnʃiˈenʃəs/ adj. 认真的，勤勤恳恳的；凭良心的，与良心有关的
+- fight back /faɪt bæk/回击；抵抗
+- efforts /ˈefərts/ n. 努力；尝试；有组织的活动；质量不高的成果；努力的结果，成就（effort 的复数）
+- defy /dɪˈfaɪ/ v. 违抗，不服从；挑战，激；无法，难以（描述或理解）；经受住，顶住
+- presence n. 存在，出席；驻扎部队，驻扎的警力；风度，气质；（公司在某地的）工人（或产品），势力
+- slack adj. 不紧的，松弛的；（生意）萧条的，清淡的；懈怠的，敷衍了事的；（潮水）迟缓的，平缓的；淫荡的，下流的n. （绳索的）松弛部分v. 懈怠，偷懒；使（绳索等）松弛；减缓，放慢；熟化（石灰）；
+- reign /reɪn/ n. （君主）在位时期，统治时期；领导期，任期；支配期，极盛期；（运动员或运动队）持有指明荣誉头衔的时期v. 为王，统治；支配，盛行；成为最佳，成为最重要的
+- Emperor /ˈempərər/ n. 皇帝
+- Empress /ˈemprəs/ n. 皇后，女皇
+- The Imperial family, for so long, had been extremely self-indulgent.
+- 长期以来，皇室家族一直极度放纵自己。
+- self-indulgent /ˌself ɪnˈdʌldʒənt/ adj. 任性的，放纵的
+- It paid little attention to the realities of what was happening inside China.
+- 它很少关注中国国内正在发生的现实情况。
+- For so long, the nation's policies revolved around the whims of the Imperial Family.
+- 很长一段时间以来，日本的政策都是围绕着皇室的心血来潮而制定的。
+- revolved /rɪˈvɑːlv/ v. 旋转；反复思考（revolve 的过去式及过去分词）adj. 旋转的
+- whims /wɪmz/虚妄禅病
+- With reliance on its own resources, a secret society, called the Order of Literary Patriotic Harmonious Fists, made one last desperate attempt at revenge, to rid the country of foreigners.
+- 一个名为“文学爱国和谐拳头会”的秘密组织，依靠自己的力量，进行了最后一次绝望的报复，以清除外国人。
+- reliance /rɪˈlaɪəns/ n. 依靠，信任；<古>被依赖的人（或物）
+- resources /ˈriːsɔːrsɪz/ n. [计][环境] 资源；物力（resource 的复数）v. 向……提供资金（resource 的第三人称单数）
+- Patriotic /ˌpeɪtriˈɑːtɪk/ adj. 爱国的，有爱国心的
+- Harmonious /hɑːrˈmoʊniəs/ adj. 和睦的，融洽的；悦耳的；和谐的，协调的
+- desperate /ˈdespərət/ adj. 绝望的，无望的；绝望的，无望的；不顾一切的，拼命的；极需要的，渴望的；极严重的，极危险的；
+- revenge /rɪˈvendʒ/ n. 报复，报仇；报复欲望，复仇心；雪耻（指在比赛中战胜曾击败自己的对手）
+- v. 复仇，报复；替（人）报仇；报（被冤枉，被伤害）之仇，洗雪（侮辱）
+- rid /rɪd/ v. 使……去掉，使……去除；摆脱，消除adj. 得到解脱的
+- In 1900, these Boxers as they were called, stubbornly engaged the foreign powers in conflict.
+- 1900年，这些被称为义和团的人，顽固地与外国势力发生冲突。
+- stubbornly /ˈstʌbərnli/ adv. （人）固执地，倔强地；难以去除（对付，使用）地
+- engaged /ɪnˈɡeɪdʒd/ v. 参加，从事；雇用，聘请；吸引，引起（engage 的过去式和过去分词形式）
+- conflict /ˈkɑːnflɪkt/ n. 争执，争论，分歧；战斗，战争；抵触，矛盾v. 冲突，抵触
+- The former tore up railway tracks, attacked Chinese Christians, besieged foreign delegations, and eventually slaughtered over three hundred foreigners.
+- 前者撕毁铁路，攻击中国基督徒，包围外国代表团，最终屠杀了300多名外国人。
+- tore up撕碎；撕毁（协议、合同等）；拔起（tear up 的过去式）
+- Christians /ˈkrɪstʃənz/ n. 基督徒（Christian 的复数）
+- delegations /ˌdelɪˈɡeɪʃn/ n. 代表团；授权，委派
+- slaughtered /ˈslɔːtər/ n. （对动物的）屠宰；（对人的）屠杀；v. 宰杀（动物）；屠杀，杀戮
+- The Americans collaborated with the Japanese, consolidated forces and easily overwhelmed the Boxers.
+- 美国人与日本人合作，巩固了军队，轻松地击败了义和团。
+- collaborated /kəˈlæbəreɪtɪd/ v. 合作（collaborate 的过去分词）；协作；协调
+- consolidated /kənˈsɑːlɪdeɪtɪd/ adj. 巩固的；统一的；整理过的v. 合并；巩固（consolidate 的过去分词形式）；统一
+- forces /ˈfɔːrsɪz/ n. 武装力量；势力；影响大的人（force 的复数）v. 迫使；催熟（force 的第三人称单数）
+- overwhelmed /ˌoʊvərˈwelmd/ adj. 被压倒的，被淹没的；（强烈地影响而使） 不知所措的v. （情感）难以禁受；使应接不暇；淹没，漫过（overwhelm 的过去式和过去分词）
+- The latter crumbled under the pressure of foreign superiority and its own deficiencies in equipment and organization.
+- 后者在外国优势和自身装备、组织不足的压力下崩溃了。
+- crumbled /ˈkrʌmbld/ v. 瓦解，崩溃； 崩裂，坍塌；（使）粉碎，（使）成碎屑；不再抵抗，无力应付
+- superiority /suːˌpɪriˈɔːrəti/ n. 优越，优势；优越感，骄傲自大
+- deficiencies /dɪˈfɪʃənsiz/ n. 缺乏，不足；缺陷（deficiency 的复数形式）
+- The victors placed severe controls on the crippled Chinese Government and imposed heavy indemnities of billions of dollars.
+- 战胜国对瘫痪的中国政府实施了严格的控制，并向中国政府支付了数十亿美元的巨额赔款。
+- crippled /ˈkrɪpld/ v. 使跛足，使残疾，使伤残；严重毁坏或损害；给……造成严重问题（cripple的过去式和过去分词）
+- imposed /ɪmˈpəʊzd/ v. 欺骗；把......强加于（impose 的过去式和过去分词）
+- indemnities /ɪnˈdemnətiz/ n. 赔偿（indemnity 的复数）；保障
+- The fact that the foreigners were interested, only in protecting their own interests, was abundantly clear.
+- 外国人只对保护自己的利益感兴趣，这一事实非常清楚。
+- abundantly /əˈbʌndəntli/ adv. 非常地；丰富地；大量地
+- Aside from discriminatory immigration policy against Chinese, the U. S. had no official direct political or diplomatic relations with China until the Second World War.
+- 除了针对中国人的歧视性移民政策，直到第二次世界大战之前，美国与中国没有正式的直接政治或外交关系。
+- political /pəˈlɪtɪkl/ adj. 政治（上）的，政府的；政党的，党派的；对政治感兴趣的，参与政治的；反政府的；（组织内部人际间）牵涉权力关系的，争权夺利的
+- diplomatic /ˌdɪpləˈmætɪk/ adj. 外交的，从事外交的；有手腕的，灵活变通的；（版本，副本）仿真的，和原件完全一致的
+- The United States took on a much cherished isolationist approach to world affairs following the First World War, after having established itself as a major world power.
+- 第一次世界大战之后，美国在确立了自己作为世界大国的地位后，采取了一种备受珍视的孤立主义方式来处理世界事务。
+- cherished /ˈtʃerɪʃt/ adj. 珍爱的，珍藏的v. 重视，珍视；珍爱，爱护；抱有（信念、希望）；怀有（好感）；怀念（cherish 的过去式和过去分词）
+- isolationist /ˌaɪsəˈleɪʃənɪst/ n. 孤立主义者adj. 孤立主义的；孤立主义者的
+- approach /əˈproʊtʃ/ n. 方法，态度；靠近，接近；接洽，要求；通道，路径；进场着陆；近似物v. 靠近，临近；接洽，交谈；对付，处理；近似，接近于
+- The United States did not even become a representative of the League of Nations, essentially the creation of its own then President, Woodrow Wilson.
+- 美国甚至没有成为国际联盟的代表，国际联盟实质上是由当时的总统伍德罗·威尔逊创立的。
+- representative /ˌreprɪˈzentətɪv/ adj.有代表性的，典型的；代表各类人（或事物）的；由代表组成的，代议制的；表现的，体现的；（艺术）具象派的；（哲） （与）表象（有关）的n. 代表，代理人；代表他人者；销售代表，销售代理；典型人物，有代表性的事物；（美国）众议院议员；（类或群的）样本，代表物
+- League of Nations国际联盟
+- essentially /ɪˈsenʃəli/ adv. 本质上，根本上；大体上，基本上
+- This organization was set up in 1919 to curb international conflict, which could, potentially, throw the world into a war again.
+- 该组织成立于1919年，旨在遏制可能使世界再次陷入战争的国际冲突。
+- curb /kɜːrb/ v. 控制，抑制；勒住（马）n. 控制，抑制；
+- potentially /pəˈtenʃəli/ adv. 可能地，潜在地
+- The absence of this powerful nation was one of the major weaknesses of this organization and, consequently, a possible factor that actually facilitated the resumption of world conflict in 1939.
+- 这个强大国家的缺席是本组织的主要弱点之一，因此，这可能是实际上促成1939年世界冲突重新爆发的一个因素。
+- weaknesses /'wiknəsɪz/ n. 劣势，弱点；[审计]薄弱环节（weakness 的复数形式）
+- consequently /ˈkɑːnsɪkwentli/ adv. 因此，结果
+- facilitated /fəˈsɪlɪteɪtɪd/ v. 促进；帮助（facilitate 的过去分词）；使有利发展
+- resumption /rɪˈzʌmpʃn/ n.重新开始，恢复；土地、权利等的）重获
+- The Second World War
+- 第二次世界大战
+- During the Second World War, the United States and China were allies against the common enemy, Japan.
+- 第二次世界大战期间，美国和中国是对抗共同敌人日本的盟友。
+- allies /ˈælaɪz/ n. （第二次世界大战时的）同盟国；（第一次世界大战时的）协约国
+- A coalition of the United States, British Commonwealth countries, and other allies dispatched supplies and other support to China by way of the Burma Road and by air over the hump (mountains), to close in on Japan from the rear.
+- 一个由美国、英联邦国家和其他盟国组成的联盟，通过滇缅公路和飞越驼峰(山脉)，向中国派遣了物资和其他支援，从后方包围日本。
+- coalition /ˌkoʊəˈlɪʃ(ə)n/ n. 联合政府；联合体，联盟；联合，结合
+- dispatched /dɪˈspætʃt/ v. 派遣；发送；迅速处理，迅速办妥；杀死，处决n. 派遣，发送；公文，急件；报道，电讯；杀死，除掉
+- supplies /səˈplaɪz/ n. 物资；供应品；贮备量（supply 的复数）v. 供应（supply 的第三人称单数）；提供
+- hump /hʌmp/ n. 驼峰；小圆丘，岗，隆起；（人的）驼背；恼怒，烦恼
+- rear /rɪr/ adv. 向后，在后面adj. 后方的，背部的v. 养育，饲养；栽种，培植；（动物）用后腿直立；n. （尤指建筑物或车辆等的）后部，背部（the rear）
+- When war broke out in 1939, China was experiencing a civil war, the Nationalists versus the Communists.
+- 939年战争爆发时，中国正在经历一场内战，国民党对共产党。
+- civil war内战
+- Nationalists /ˈnæʃənlɪst/ n. 民族主义者；国家主义者（nationalist 人复数）
+- versus /ˈvɜːrsəs/ prep. （比赛或诉讼中）以……为对手，与……竞争；与……相对，与……相比
+- Communists /ˈkɑmjʊˌnɪst/ n. 共产党员（communist 的复数形式）
+- This civil war was put on hold while both the Nationalists and Communists joined forces to converge on Japan, which had, intermittently, hovered over China as a menace, or as an imperialist thorn in its side, for a good century before the war.
+- 这场内战在国民党和共产党联合起来对付日本的时候中止了。在战前的一个世纪里，日本曾断断续续地把中国当作一个威胁，或是帝国主义的眼中钉。
+- forces /ˈfɔːrsɪz/ v. 迫使；催熟（force 的第三人称单数）n. 势力；武装力量；影响大的人（force 的复数）
+- converge /kənˈvɜːrdʒ/ v. （使）汇聚，集中；（观点、目标）趋同；（数）收敛
+- intermittently /ˌɪntərˈmɪtəntli/ adv. 间歇地
+- hovered /ˈhʌvər/ v. 翱翔，盘旋；徘徊，守候；处于不稳定状态；上下波动，左右摇摆；伏窝孵化
+- n. 翱翔，徘徊
+- menace /ˈmenəs/ n. 威胁，危险的人或物；烦人的人（或事物），引起麻烦的人（或事物）；危险气氛，威胁；（以）威胁（或恐吓）的手段（索要钱财）
+- imperialist /ɪmˈpɪriəlɪst/ n. 帝国主义者adj. 帝国主义的
+- thorn /θɔːrn/ n. 眼中钉；（植物茎上的）刺；带刺的灌木，荆棘；刺形符，字母 ð； <喻>使人苦恼（或生气）的事（或人），棘手的东西；霜尺蛾；
+- The war brought the United States out of its splendid official isolation.
+- 这场战争使美国摆脱了官方的辉煌孤立。
+- splendid /ˈsplendɪd/ adj. 极佳的，非常好的；壮丽的，灿烂的，辉煌的；（一段时光）令人愉快的
+- int. （表示赞许或满意）好极了，痛快
+- isolation /ˌaɪsəˈleɪʃn/ n. 隔离，孤立；孤独；绝缘；（尤指对混合物或微生物的）离析
+- Once the war was over, turbulent times continued to stalk China.
+- 战争结束后，动荡的时代继续困扰着中国。
+- turbulent /ˈtɜːrbjələnt/ adj. 动乱的，骚乱的；（气流）湍流的，（水）湍急的； 骚动的，混乱而难以控制的；（技）（与）紊流（有关）的，（与）湍流（有关）的
+- stalk v. 偷偷接近，潜近；跟踪，盯梢；怒冲冲地走，趾高气扬地走；令人厌恶地穿过，威胁地通过；
+- The civil war picked up where it left off.
+- 内战又重新开始了。
+- picked up捡起；获得；收拾；（汽车；飞机）乘载；不费力地学会
+- left off停止
+- The Americans lent its moral support to the Nationalists in their struggle against the Communists, whereby the United States began to formulate its Cold War policy of “Containment” (Containing the spread of Communism). （1224 words）
+- 美国人在与共产党的斗争中给予国民党精神上的支持，由此美国开始制定“遏制”(遏制共产主义的传播)的冷战政策。
+- lent /lent/ v. 借给；贷款（lend的过去式和过去分词）
+- moral /ˈmɔːrəl/ adj. 有关道德的；基于道德的，道义上的；品行端正的，有道德的；伦理的；能辨别是非的n. 道德准则（标准）；寓意，道德上的教训
+- whereby /werˈbaɪ/ adv. 凭此，借以conj. 凭此，借以，与……一致；<非正式>在……的情况下，处于……的位置
+- formulate /ˈfɔːrmjuleɪt/ v. 制定，规划；确切表达，认真阐述；用公式表示
