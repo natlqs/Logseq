@@ -1,0 +1,58 @@
+### 一、环境说明
+	- 虚拟机：VMware Workstation 14 Pro
+	- 镜像：Deepin 20
+- ###   二、创建虚拟机
+	- 1、创建虚拟机
+	- ![](https://img-blog.csdnimg.cn/img_convert/943abf4ec63ffa879bc310963b3e7784.png)
+	- 2、选择典型安装
+	- ![](https://img-blog.csdnimg.cn/img_convert/774edf44d2bb8c800ae1cf1861406744.png)
+	- 3、选择安装镜像方式
+	- ![](https://img-blog.csdnimg.cn/img_convert/4ea55df7cb89e167c785b8354c733084.png)
+	- 4、选择客户机操作系统
+	- Deepin 先前基于 [Ubuntu](https://so.csdn.net/so/search?q=Ubuntu&spm=1001.2101.3001.7020) 开发的，这里选择哪里并没多大区别
+	- ![](https://img-blog.csdnimg.cn/img_convert/145c3d2c9a43b5cb7d5dabb4c3d8b192.png)
+	- 5、命名虚拟机名称和选择安装位置
+	- ![](https://img-blog.csdnimg.cn/img_convert/f68a3b55ad47771d930e09e7327fa9a5.png)
+	- 6、指定磁盘容量
+	- Deepin 20 最低 64 G，建议 80 或以上
+	- ![](https://img-blog.csdnimg.cn/img_convert/23f40efe654c6bcd5836dadf330e58d6.png)
+	- 7、自定义硬件
+	- ![](https://img-blog.csdnimg.cn/img_convert/eb819018cc000b273e789f3c78abe19c.png)
+	- 8、根据电脑实际情况自定义以下设备配置
+	- ![](https://img-blog.csdnimg.cn/img_convert/1d41927769ca0e23502213520a967529.png)
+	- 9、点击完成则完成配置
+	- ![](https://img-blog.csdnimg.cn/img_convert/69a5f524b76bcf5448091d81fd23de99.png)
+- ###   三、开始安装
+	- 1、启动虚拟机
+	- ![](https://img-blog.csdnimg.cn/img_convert/2271830c223cdd372f5f5b2cb5265b62.png)
+	- 2、选择语言
+	- ![](https://img-blog.csdnimg.cn/img_convert/3ecbcdaa002fb5ae95a3b64d9915edb9.png)
+	- 3、跳过提示
+	- ![](https://img-blog.csdnimg.cn/img_convert/a49b4e284c14468a7624e47d4425d5ca.png)
+	- 4、硬盘分区（选择全盘安装）
+	- ![](https://img-blog.csdnimg.cn/img_convert/a44db1ceeb92face6af48968b31a5015.png)
+	- 5、等待安装和重启系统
+	- ![](https://img-blog.csdnimg.cn/img_convert/5e5d116f81935c02353de1ff8cd0bf94.png)
+	- ![](https://img-blog.csdnimg.cn/img_convert/fbf5f8df9a3b907d8902f7ff5eb57dce.png)
+	- 6、选择系统语言
+	- ![](https://img-blog.csdnimg.cn/img_convert/dd6ace442fb1a7a930c7c275bee6f18e.png)
+	- 7、选择键盘
+	- ![](https://img-blog.csdnimg.cn/img_convert/9aaf681ca348c768f505ab6111db9ae4.png)
+	- 8、选择时区（默认）
+	- ![](https://img-blog.csdnimg.cn/img_convert/d8408994f598a13c2ed67593b6dee27a.png)
+	- 9、创建账户
+	- ![](https://img-blog.csdnimg.cn/img_convert/e2f1c10168b46883c1ae4a058980d66c.png)
+	- 10、配置网路（默认）
+	- ![](https://img-blog.csdnimg.cn/img_convert/988d77c89df5a8a941ada8cff48b3455.png)
+	- 11、等待优化
+	- ![](https://img-blog.csdnimg.cn/img_convert/a5c9a89fa82d4c0dcc20d4cbd5ec9d6c.png)
+- ###   四、Deepin 初体验
+	- 1、登录
+	- ![](https://img-blog.csdnimg.cn/img_convert/82ba10f3abd7c891173b199122e9d61c.png){:height 595, :width 1046}
+	- 2、选择系统模式
+	- ![](https://img-blog.csdnimg.cn/img_convert/d613801b7fd5f472c2e56b6a205bdbd3.png)
+	- 3、进入系统
+	- ![](https://img-blog.csdnimg.cn/img_convert/52caad6234b1b99884d120d21f4a40e9.png)
+	- 4、各自玩耍（完结）
+	- ![](https://img-blog.csdnimg.cn/img_convert/d848c6d4369f724616a0d0a7376f4866.png)
+	-

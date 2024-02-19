@@ -1,0 +1,33 @@
+## Deepin安装ssh服务并设置开机启动
+	- 安装ssh服务
+		- `sudo apt-get install openssh-server`
+	- 启动ssh服务
+		- `sudo /etc/init.d/ssh start`
+	- 设置开机自启动
+		- `sudo systemctl enable ssh`
+	- 关闭ssh开机自动启动命令
+		- `sudo systemctl disable ssh`
+	- 单次开启ssh
+		- `sudo systemctl start ssh`
+	- 单次关闭ssh
+		- `sudo systemctl stop ssh`
+	- 设置好后重启
+		- `reboot`
+- ## Debian 10系统开启SSH服务
+	- 1.安装ssh服务
+		- `sudo apt-get install ssh`
+	- 2.编辑ssh配置文件
+		- 打开sshd_config文件
+			- `sudo nano /etc/ssh/sshd_config`
+		- 在文件的末尾添加如下语句：
+			- `PasswordAuthentication yes`
+		- 若想允许root用户远程登陆，再添加如下语句：
+			- `PermitRootLogin yes   `
+		- 保存退出
+	- 3.启动服务
+		- `sudo service ssh start`
+	- 4.添加开机启动
+		- `sudo update-rc.d ssh enable`
+	- 5.查看ssh服务状态
+		- `/etc/init.d/ssh status`
+	-

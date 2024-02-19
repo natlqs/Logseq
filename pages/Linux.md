@@ -1,3 +1,6 @@
 - [[🐧Linux基础]]
+- [[Vmware 安装Deepin 23v3]]
+- [[Vmware Deepin 23v3安装VMware Tools]]
+- [[Deepin 23v3配置]]
 -
 -
